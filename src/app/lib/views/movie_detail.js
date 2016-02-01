@@ -258,7 +258,7 @@
             } else {
 		    var torrentStart = new Backbone.Model({
 		        imdb_id: this.model.get('imdb_id'),
-		        torrent: "magnet:?xt=urn:btih:a6b3c28a3973a29ee832bde19d039a360cb24a2b&dn=050714-598.mp4",
+		        torrent: "magnet:?xt=urn:btih:6bcdf303122e0ae56aacdd1a78e835df9efa609a&dn=%5BKaerizaki-Fansub%5D_One_Piece_726_%5BVOSTFR%5D%5BHD_1280x720%5D.mp4",
 		        backdrop: this.model.get('backdrop'),
 		        subtitle: this.model.get('subtitle'),
 		        defaultSubtitle: this.subtitle_selected,
