@@ -146,7 +146,6 @@
                     App.currentview = 'anime';
                     break;
                 case 'NeetCafe':
-                    console.log('okay neetcafe show loaded');
                     App.currentview = 'neetCafe';
                     break;
                 case 'Favorites':

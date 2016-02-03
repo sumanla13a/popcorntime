@@ -14,7 +14,6 @@
 
         updateHealth: function () {
             var torrents = this.get('torrents');
-
             _.each(torrents, function (torrent) {
                 torrent.health = Common.healthMap[Common.calcHealth(torrent)];
             });

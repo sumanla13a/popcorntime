@@ -62,7 +62,6 @@
                 }, {})
             };
         }).value();
-
         return {
             results: Common.sanitize(results),
             hasMore: true //data.movie_count > data.page_number * data.limit

@@ -260,7 +260,7 @@
         showNeetCafe: function(e) {
             this.Settings.destroy();
             this.MovieDetail.destroy();
-            this.Content.show(new App.View.AnimeBrowser());  
+            this.Content.show(new App.View.NeetCafeBrowser());  
         },
 
         updateShows: function (e) {

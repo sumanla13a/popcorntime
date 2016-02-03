@@ -154,6 +154,7 @@
             movie: ['Yts'],
             tvshow: ['TVApi'],
             anime: ['Haruhichan'],
+            neetcafe: ['NeetCafe'],
             subtitle: 'YSubs',
             metadata: 'Trakttv',
             tvst: 'TVShowTime',

@@ -1,0 +1,2091 @@
+[{
+  "results": [{
+    "type": "movie",
+    "id": "74515",
+    "imdb_id": "tt0139699",
+    "title": "Varsity Blues",
+    "slug": "varsity-blues-1999",
+    "year": 1999,
+    "genre": ["Comedy", " Drama", " Romance", " Sport"],
+    "directors": ["Brian Robbins"],
+    "cast": ["James Van Der Beek", " Jon Voight", " Paul Walker", " Ron Lester", " Scott Caan", " Richard Lineback", " Tiffany C. Love", " Amy Smart", " Eliel Swinton", " Thomas F. Duffy", " Jill Parker-Jones", " Joe Pichler", " Mark Walters", " Brady Coleman", " James N. Harrell"],
+    "rating": 6.4,
+    "runtime": 106,
+    "image": "http://yify.is/data/medium_cover/74515.jpg",
+    "cover": "http://yify.is/data/medium_cover/74515.jpg",
+    "backdrop": "http://yify.is/data/background/74515.jpg",
+    "synopsis": "In small-town Texas, high school football is a religion. The head coach is deified, as long as the team is winning and 17-year-old schoolboys carry the hopes of an entire community onto the gridiron every Friday night. In his 35th year as head coach, Bud Kilmer (Jon Voight) is trying to lead his West Canaan Coyotes to their 23rd division title. When star quarterback Lance Harbor (Paul Walker) suffers an injury, the Coyotes are forced to regroup under the questionable leadership of John Moxon (James Van Der Beek), a second-string quarterback with a slightly irreverent approach to the game. &#x22;Varsity Blues&#x22; explores our obsession with sports and how teenage athletes respond to the extraordinary pressures places on them.",
+    "trailer": "https://www.youtube.com/watch?v=eSnkWiacUW4",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/BEA0E33F40140073DC65B4999410272FCE267BFC.torrent",
+        "magnet": "magnet:?xt=urn:btih:BEA0E33F40140073DC65B4999410272FCE267BFC&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "800682147",
+        "filesize": "763.59 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/varsity-blues-yify-77522.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "125563",
+    "imdb_id": "tt0069162",
+    "title": "The Rats Are Coming! The Werewolves Are Here!",
+    "slug": "the-rats-are-coming-the-werewolves-are-here-1972",
+    "year": 1972,
+    "genre": [" Horror \n\t\t\t\t"],
+    "directors": [""],
+    "cast": [" Hope Stansbury", " Jackie Skarvellis", " Noel Collins\n\t\t\t\t"],
+    "rating": 3.2,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/125563.jpg",
+    "cover": "http://yify.is/data/medium_cover/125563.jpg",
+    "backdrop": "http://yify.is/data/background/125563.jpg",
+    "synopsis": "\n          The Mooneys are an eccentric English family whom live in a large house in rural England in the early 1900s. The invalid patriarch 'Pa' Mooney (Douglas Phair) is a retired medical doctor who claims to be 199 years old. His eldest daughter, Phoebe (Joan Ogden), more or less cares for him and is head of running the household. His eldest son, Mortimer (Noel Collins), is a businessman whom conducts the finances of the family and contributes to the family income. Younger daughter Monica (Hope Stansbury) is a sadist who keeps live rats as pets and frequently mutilates them and other small animals. Youngest son Malcolm (Berwick Kaler) is a half-wit with animal tendencies in which the family keeps him locked up in a room of the house with live chickens. The family has a secret: they are all werewolves! They are natural born, not made, werewolves whom turn once a month on the night of the full moon and Pa Mooney has been researching for years to find a way to break the family curse. Youngest ...        ",
+    "trailer": "https://www.youtube.com/watch?v=iH1OXnleits",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/9D401DC3D55E52264F3C4E0722CAE8F7331E97EC.torrent",
+        "magnet": "magnet:?xt=urn:btih:9D401DC3D55E52264F3C4E0722CAE8F7331E97EC&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "684321669",
+        "filesize": "652.62 MB",
+        "seed": 39,
+        "peer": 12,
+        "health": "good"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/857BE94FB2A85F016E7BE68A5B3221367C12A8C6.torrent",
+        "magnet": "magnet:?xt=urn:btih:857BE94FB2A85F016E7BE68A5B3221367C12A8C6&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1471026298",
+        "filesize": "1.37 GB",
+        "seed": 1,
+        "peer": 107,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts"
+  }, {
+    "type": "movie",
+    "id": "67294",
+    "imdb_id": "tt0129167",
+    "title": "The Iron Giant",
+    "slug": "the-iron-giant-1999",
+    "year": 1999,
+    "genre": ["Animation", " Action", " Adventure", " Comedy", " Crime", " Family", " Sci-Fi"],
+    "directors": ["Brad Bird"],
+    "cast": ["Jennifer Aniston", " Harry Connick Jr.", " Vin Diesel", " James Gammon", " Cloris Leachman", " Christopher McDonald", " John Mahoney", " Eli Marienthal", " M. Emmet Walsh", " Jack Angel", " Bob Bergen", " Mary Kay Bergman", " Michael Bird", " Devon Cole Borisoff", " Rodger Bumpass"],
+    "rating": 8,
+    "runtime": 86,
+    "image": "http://yify.is/data/medium_cover/67294.jpg",
+    "cover": "http://yify.is/data/medium_cover/67294.jpg",
+    "backdrop": "http://yify.is/data/background/67294.jpg",
+    "synopsis": "This is the story of a nine-year-old boy named Hogarth Hughes who makes friends with an innocent alien giant robot that came from outer space. Meanwhile, a paranoid U.S. Government agent named Kent Mansley arrives in town, determined to destroy the giant at all costs. It's up to Hogarth to protect him by keeping him at Dean McCoppin's place in the junkyard.",
+    "trailer": "https://www.youtube.com/watch?v=pJX0ynSlAzE",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/95765A339FB2F4C830996B24B06E6FF483B2FDFF.torrent",
+        "magnet": "magnet:?xt=urn:btih:95765A339FB2F4C830996B24B06E6FF483B2FDFF&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "660718223",
+        "filesize": "630.11 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/14E7DA00453739E74170A27D933E0D5907B7C8BA.torrent",
+        "magnet": "magnet:?xt=urn:btih:14E7DA00453739E74170A27D933E0D5907B7C8BA&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1406601789",
+        "filesize": "1.31 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/the-iron-giant-yify-77545.zip",
+      "el": "http://www.yifysubtitles.com/subtitle-api/the-iron-giant-yify-77553.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "125471",
+    "imdb_id": "tt2723176",
+    "title": "Amorous",
+    "slug": "amorous-2014",
+    "year": 2014,
+    "genre": [" Drama", " Romance \n\t\t\t\t"],
+    "directors": [""],
+    "cast": [" Josh OConnor", " Hannah Arterton", " Rea Mole\n\t\t\t\t"],
+    "rating": 4.8,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/125471.jpg",
+    "cover": "http://yify.is/data/medium_cover/125471.jpg",
+    "backdrop": "http://yify.is/data/background/125471.jpg",
+    "synopsis": "\n          Four fragile young people flee London to start an unconventional utopia, creating a world of fantasy that overwhelms them.        ",
+    "trailer": "https://www.youtube.com/watch?v=fqUlcN4iJRI",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/D7C49B38B6A434BB9E9CDB6FE582C1474E9123E4.torrent",
+        "magnet": "magnet:?xt=urn:btih:D7C49B38B6A434BB9E9CDB6FE582C1474E9123E4&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "640386334",
+        "filesize": "610.72 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/D4F6CFBAD84C00F1884D45B72E29FAC056DDE704.torrent",
+        "magnet": "magnet:?xt=urn:btih:D4F6CFBAD84C00F1884D45B72E29FAC056DDE704&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1363652116",
+        "filesize": "1.27 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts"
+  }, {
+    "type": "movie",
+    "id": "69789",
+    "imdb_id": "tt0395251",
+    "title": "The Producers",
+    "slug": "the-producers-2005",
+    "year": 2005,
+    "genre": ["Comedy", " Musical"],
+    "directors": ["Susan Stroman"],
+    "cast": ["Nathan Lane", " Matthew Broderick", " Uma Thurman", " Will Ferrell", " Gary Beach", " Roger Bart", " Eileen Essell", " Michael McKean", " David Huddleston", " Debra Monk", " Andrea Martin", " Jon Lovitz", " Bryn Dowling", " Meg Gillentine", " Kevin Ligon"],
+    "rating": 6.4,
+    "runtime": 134,
+    "image": "http://yify.is/data/medium_cover/69789.jpg",
+    "cover": "http://yify.is/data/medium_cover/69789.jpg",
+    "backdrop": "http://yify.is/data/background/69789.jpg",
+    "synopsis": "New York, 1959. Max Bialystock was once the king of Broadway, but now all his shows close on opening night. Things turn around when he's visited by the neurotic accountant Leo Bloom, who proposes a scheme tailor-made for producers who can only make flops: raise far more money than you need, then make sure the show is despised. No one will be interested in it, so you can pocket the surplus. To this end, they produce a musical called Springtime for Hitler written by escaped Nazi Franz Liebken. Then they get the insanely flamboyant Roger De Bris to direct. Finally, they hire as a lead actress the loopy Swedish bombshell Ulla (whose last name has over 15 syllables). As opening night draws near, what can go wrong? Well, there's no accounting for taste...",
+    "trailer": "https://www.youtube.com/watch?v=VzF4N0StVes",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/DE5F03848EB413324DC9CD612EF3F0B6E0D3F5B6.torrent",
+        "magnet": "magnet:?xt=urn:btih:DE5F03848EB413324DC9CD612EF3F0B6E0D3F5B6&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1024469237",
+        "filesize": "977.01 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/0E0A59D295444CE79079E400687BE760B70808B8.torrent",
+        "magnet": "magnet:?xt=urn:btih:0E0A59D295444CE79079E400687BE760B70808B8&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "2179695902",
+        "filesize": "2.03 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/the-producers-yify-77534.zip",
+      "el": "http://www.yifysubtitles.com/subtitle-api/the-producers-yify-77551.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "45727",
+    "imdb_id": "tt0064253",
+    "title": "Downhill Racer",
+    "slug": "downhill-racer-1969",
+    "year": 1969,
+    "genre": [" Drama", " Sport \n"],
+    "directors": [" Michael Ritchie "],
+    "cast": [" Robert Redford", " Gene Hackman", " Camilla Sparv "],
+    "rating": 6.5,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/45727.jpg",
+    "cover": "http://yify.is/data/medium_cover/45727.jpg",
+    "backdrop": "http://yify.is/data/background/45727.jpg",
+    "synopsis": "\nDavid Chappellet is a mean-spirited skier, who profits from another skier's injury to gain a spot on the American Olympic team. His roommate sums up his goals when he observes of David, \"He's not for the team, and he never will be\"; but precisely who the David is that David is so fiendishly striving for we're never to learn. He develops a short-lived relationship with Carole Stahl, a glamorous European woman even more capricious than himself. Chappellet's identity trouble are exacerbated by the fact that he is an \"Event\" as well as a personality; and more astute minds than his own have difficulty where the one leaves off and the other takes over. Director Michael Richie's (\"The Candidate\") feature film debut. ",
+    "trailer": "https://www.youtube.com/watch?v=7hLzfyykLKA",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/0B962B301B5D6EDA9E7E8BF9F376E171430AC616.torrent",
+        "magnet": "magnet:?xt=urn:btih:0B962B301B5D6EDA9E7E8BF9F376E171430AC616&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "752154050",
+        "filesize": "717.31 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/1631A1B7FA869BA194DF7B9881A1978458207DB3.torrent",
+        "magnet": "magnet:?xt=urn:btih:1631A1B7FA869BA194DF7B9881A1978458207DB3&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1632087572",
+        "filesize": "1.52 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/downhill-racer-yify-77523.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "59954",
+    "imdb_id": "tt0053172",
+    "title": "Pillow Talk",
+    "slug": "pillow-talk-1959",
+    "year": 1959,
+    "genre": [" Comedy", " Romance \n"],
+    "directors": [" Michael Gordon "],
+    "cast": [" Rock Hudson", " Doris Day", " Tony Randall "],
+    "rating": 7.5,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/59954.jpg",
+    "cover": "http://yify.is/data/medium_cover/59954.jpg",
+    "backdrop": "http://yify.is/data/background/59954.jpg",
+    "synopsis": "",
+    "trailer": "https://www.youtube.com/watch?v=qtjozLb1a5Q",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/2E41A6907C94FD964A11CA2127273CA4F7D5D4DC.torrent",
+        "magnet": "magnet:?xt=urn:btih:2E41A6907C94FD964A11CA2127273CA4F7D5D4DC&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "761717063",
+        "filesize": "726.43 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/AE10EE07A27978E48A1D44DBDAF7B5774FE3715E.torrent",
+        "magnet": "magnet:?xt=urn:btih:AE10EE07A27978E48A1D44DBDAF7B5774FE3715E&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1642824990",
+        "filesize": "1.53 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/pillow-talk-yify-77524.zip",
+      "da": "http://www.yifysubtitles.com/subtitle-api/pillow-talk-yify-77526.zip",
+      "nl": "http://www.yifysubtitles.com/subtitle-api/pillow-talk-yify-77527.zip",
+      "fa": "http://www.yifysubtitles.com/subtitle-api/pillow-talk-yify-77530.zip",
+      "de": "http://www.yifysubtitles.com/subtitle-api/pillow-talk-yify-77532.zip",
+      "el": "http://www.yifysubtitles.com/subtitle-api/pillow-talk-yify-77552.zip",
+      "fr": "http://www.yifysubtitles.com/subtitle-api/pillow-talk-yify-77531.zip",
+      "ar": "http://www.yifysubtitles.com/subtitle-api/pillow-talk-yify-77525.zip",
+      "no": "http://www.yifysubtitles.com/subtitle-api/pillow-talk-yify-77533.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "125361",
+    "imdb_id": "tt4034452",
+    "title": "Hyena Road",
+    "slug": "hyena-road-2015",
+    "year": 2015,
+    "genre": [" Drama", " War \n\t\t\t\t"],
+    "directors": [""],
+    "cast": [" Rossif Sutherland", " Paul Gross", " Clark Johnson\n\t\t\t\t"],
+    "rating": 6.5,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/125361.jpg",
+    "cover": "http://yify.is/data/medium_cover/125361.jpg",
+    "backdrop": "http://yify.is/data/background/125361.jpg",
+    "synopsis": "\n          Three different men, three different worlds, three different wars - all stand at the intersection of modern warfare - a murky world of fluid morality where all is not as it seems.        ",
+    "trailer": "https://www.youtube.com/watch?v=fi3sjMZ6cP0",
+    "google_video": "https://2.bp.blogspot.com/Jpk9jRs3yuZ8vyJwjaj0oPFkON7OIBSXaLyt_-aUj0M=m18",
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/D58BAEE097EA720E921E0E0A02FEA0BC7BB246E3.torrent",
+        "magnet": "magnet:?xt=urn:btih:D58BAEE097EA720E921E0E0A02FEA0BC7BB246E3&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "936776826",
+        "filesize": "893.38 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/57873A57906E47A6C45EDFE41991035264057836.torrent",
+        "magnet": "magnet:?xt=urn:btih:57873A57906E47A6C45EDFE41991035264057836&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1975684956",
+        "filesize": "1.84 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/hyena-road-yify-77426.zip",
+      "ar": "http://www.yifysubtitles.com/subtitle-api/hyena-road-yify-77546.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "68319",
+    "imdb_id": "tt0051207",
+    "title": "The Wrong Man",
+    "slug": "the-wrong-man-1956",
+    "year": 1956,
+    "genre": ["Crime", " Drama"],
+    "directors": ["Alfred Hitchcock"],
+    "cast": ["Henry Fonda", " Vera Miles", " Anthony Quayle", " Harold J. Stone", " Charles Cooper", " John Heldabrand", " Esther Minciotti", " Doreen Lang", " Laurinda Barrett", " Norma Connolly", " Nehemiah Persoff", " Lola D&#39;Annunzio", " Kippy Campbell", " Robert Essen", " Richard Robbins"],
+    "rating": 7.5,
+    "runtime": 105,
+    "image": "http://yify.is/data/medium_cover/68319.jpg",
+    "cover": "http://yify.is/data/medium_cover/68319.jpg",
+    "backdrop": "http://yify.is/data/background/68319.jpg",
+    "synopsis": "Christopher Emmanuel Balestrero - Manny to his friends - is a string bassist, a devoted husband and father, and a practicing Catholic. His $85 a week gig playing in the jazz combo at the Stork Club is barely enough to make ends meet. The Balestreros' lives will become a little more difficult with the major dental bills his wife Rose will be incurring. As such, Manny decides to see if he can borrow off of Rose's life insurance policy. But when he enters the insurance office, he is identified by some of the clerks as the man that held up the office twice a few months earlier. Manny cooperates with the police as he has nothing to hide. Manny learns that he is a suspect in not only those hold ups, but a series of other hold ups in the same Jackson Heights neighborhood in New York City where they live. The more that Manny cooperates, the more guilty he appears to the police. With the help of Frank O'Connor...",
+    "trailer": "https://www.youtube.com/watch?v=a30ZjSrEU0w",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/D33D5E6CE9BCB185AA4FC18580C47F38E8EE10EF.torrent",
+        "magnet": "magnet:?xt=urn:btih:D33D5E6CE9BCB185AA4FC18580C47F38E8EE10EF&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "780381716",
+        "filesize": "744.23 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/1B9C7A3105419E4F08C1C66C9345B6932649CEE1.torrent",
+        "magnet": "magnet:?xt=urn:btih:1B9C7A3105419E4F08C1C66C9345B6932649CEE1&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1685774663",
+        "filesize": "1.57 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/the-wrong-man-yify-77427.zip",
+      "el": "http://www.yifysubtitles.com/subtitle-api/the-wrong-man-yify-77437.zip",
+      "pt": "http://www.yifysubtitles.com/subtitle-api/the-wrong-man-yify-77433.zip",
+      "es": "http://www.yifysubtitles.com/subtitle-api/the-wrong-man-yify-77428.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "55637",
+    "imdb_id": "tt1029234",
+    "title": "Martyrs",
+    "slug": "martyrs-2008",
+    "year": 2008,
+    "genre": ["Drama", " Horror", " Thriller"],
+    "directors": ["Pascal Laugier"],
+    "cast": ["Morjana Alaoui", " Myl&#xE8;ne Jampano&#xEF;", " Catherine B&#xE9;gin", " Robert Toupin", " Patricia Tulasne", " Juliette Gosselin", " Xavier Dolan", " Louise Boisvert", " Jean-Marie Moncelet", " Jessie Pham", " Erika Scott", " Isabelle Chasse", " Emilie Miskdjian", " Tony Robinow", " Anie Pascale", " Mike Chute", " Ga&#xEB;lle Cohen", " Louis Thevenon", " Jean-Fran&#xE7;ois Boudreau", " Michel Cormier", " Jean-Bernard Cote", " Patrick Dorval", " Mathieu Samaille", " Daniel Deburghgraeve", " Philippe Laugler", " Herv&#xE9; Desbois", " Mario Mancini", " Olivier Villeneuve"],
+    "rating": 7.1,
+    "runtime": 99,
+    "image": "http://yify.is/data/medium_cover/55637.jpg",
+    "cover": "http://yify.is/data/medium_cover/55637.jpg",
+    "backdrop": "http://yify.is/data/background/55637.jpg",
+    "synopsis": "Fifteen years after a horrifying experience of abduction and prolonged torture, Lucie embarks on a bloody quest for revenge against her oppressors. Along with her childhood friend, Anna, who also suffered abuse, she quickly descends, without hope, into madness and her own delusions. Anna, left on her own begins to re-experience what Lucie did when she was only twelve years old.",
+    "trailer": "https://www.youtube.com/watch?v=-7Qx2dT-lUw",
+    "google_video": "http://watch32.is/?getlink=1&link=https://picasaweb.google.com/htdesignz/YU…VVVk-1pOk-4kEk-2k-51RJNU56Y3lPREl4k-5VRjNE5qVk-5JNZz09#6049297728211786562",
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/987216432C5020F4BA9AAC19ABE1A344833CB345.torrent",
+        "magnet": "magnet:?xt=urn:btih:987216432C5020F4BA9AAC19ABE1A344833CB345&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "758256762",
+        "filesize": "723.13 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/D52F2B0594AEBDC98CE933DF84665F04293C61EB.torrent",
+        "magnet": "magnet:?xt=urn:btih:D52F2B0594AEBDC98CE933DF84665F04293C61EB&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1610612736",
+        "filesize": "1.5 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/martyrs-yify-77431.zip",
+      "el": "http://www.yifysubtitles.com/subtitle-api/martyrs-yify-77438.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "111339",
+    "imdb_id": "tt0049285",
+    "title": "Gun for a Coward",
+    "slug": "gun-for-a-coward-1957",
+    "year": 1957,
+    "genre": [" Drama", " Western \n"],
+    "directors": [" Abner Biberman "],
+    "cast": [" Fred Macmurray", " Jeffrey Hunter", " Janice Rule "],
+    "rating": 5.9,
+    "runtime": 0,
+    "image": "http://video2k.is/data/my_videos/cover/cover-17534428-vidipu-movie.jpg",
+    "cover": "http://video2k.is/data/my_videos/cover/cover-17534428-vidipu-movie.jpg",
+    "backdrop": "http://yify.is/data/background/111339.jpg",
+    "synopsis": "\nA young cowboy, whose dedication to the principles of peace and reason has earned him a reputation for cowardice, overcomes his psychological aversion to violence after his elder brother ... ",
+    "trailer": "https://www.youtube.com/watch?v=UvJSLSj4F3c",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/5F1209B2E761CA4E65BC6628B175E6C2FBBF29A0.torrent",
+        "magnet": "magnet:?xt=urn:btih:5F1209B2E761CA4E65BC6628B175E6C2FBBF29A0&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "659208273",
+        "filesize": "628.67 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/7FB20494E2FF4C390D64B47F922A55146D810B67.torrent",
+        "magnet": "magnet:?xt=urn:btih:7FB20494E2FF4C390D64B47F922A55146D810B67&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1417339207",
+        "filesize": "1.32 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "pt": "http://www.yifysubtitles.com/subtitle-api/gun-for-a-coward-yify-77450.zip",
+      "es": "http://www.yifysubtitles.com/subtitle-api/gun-for-a-coward-yify-77430.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "73443",
+    "imdb_id": "tt0118768",
+    "title": "The Brave",
+    "slug": "the-brave-1997",
+    "year": 1997,
+    "genre": ["Drama"],
+    "directors": ["Johnny Depp"],
+    "cast": ["Johnny Depp", " Marlon Brando", " Marshall Bell", " Elpidia Carrillo", " Frederic Forrest", " Clarence Williams III", " Max Perlich", " Luis Guzm&aacute;n", " Cody Lightning", " Nicole Mancera", " Floyd &#39;Red Crow&#39; Westerman", " Pepe Serna", " Lupe Ontiveros", " Alexis Cruz", " Chuck E. Weiss"],
+    "rating": 6.5,
+    "runtime": 123,
+    "image": "http://yify.is/data/medium_cover/73443.jpg",
+    "cover": "http://yify.is/data/medium_cover/73443.jpg",
+    "backdrop": "http://yify.is/data/background/73443.jpg",
+    "synopsis": "A down-on-his-luck American Indian recently released from jail is offered the chance to &#x22;star&#x22; as the victim of a snuff film, the resulting pay of which could greatly help his poverty stricken family.",
+    "trailer": "https://www.youtube.com/watch?v=GkfnxBOiPKQ",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/3069EE5842293A7F0C78CD99D6D9D485E3C436E3.torrent",
+        "magnet": "magnet:?xt=urn:btih:3069EE5842293A7F0C78CD99D6D9D485E3C436E3&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "994196848",
+        "filesize": "948.14 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/877263F24C58B07174FF7ECB38D5C2BF287173E0.torrent",
+        "magnet": "magnet:?xt=urn:btih:877263F24C58B07174FF7ECB38D5C2BF287173E0&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "2061584302",
+        "filesize": "1.92 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "el": "http://www.yifysubtitles.com/subtitle-api/the-brave-yify-77436.zip",
+      "es": "http://www.yifysubtitles.com/subtitle-api/the-brave-yify-77429.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "125467",
+    "imdb_id": "tt2279339",
+    "title": "Love the Coopers",
+    "slug": "love-the-coopers-2015",
+    "year": 2015,
+    "genre": [" Comedy \n\t\t\t\t"],
+    "directors": [""],
+    "cast": [" Diane Keaton", " John Goodman", " Ed Helms\n\t\t\t\t"],
+    "rating": 5.8,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/125467.jpg",
+    "cover": "http://yify.is/data/medium_cover/125467.jpg",
+    "backdrop": "http://yify.is/data/background/125467.jpg",
+    "synopsis": "\n          When four generations of the Cooper clan come together for their annual Christmas Eve celebration, a series of unexpected visitors and unlikely events turn the night upside down, leading them all toward a surprising rediscovery of family bonds and the spirit of the holiday.        ",
+    "trailer": "https://www.youtube.com/watch?v=-TSX_0rwPNc",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "magnet:?xt=urn:btih:8423E8254628178001167064279F50FD73394065&amp;dn=Love+the+Coopers+%282015%29+%5B720p%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&amp;tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&amp;tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337&amp;tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337",
+        "magnet": "magnet:?xt=urn:btih:8423E8254628178001167064279F50FD73394065&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "821884354",
+        "filesize": "783.81 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/3862B2961B2828588646D7FB6ADEBB5FC8CEE16F.torrent",
+        "magnet": "magnet:?xt=urn:btih:3862B2961B2828588646D7FB6ADEBB5FC8CEE16F&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1750199173",
+        "filesize": "1.63 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/love-the-coopers-yify-77410.zip",
+      "es": "http://www.yifysubtitles.com/subtitle-api/love-the-coopers-yify-77549.zip",
+      "he": "http://www.yifysubtitles.com/subtitle-api/love-the-coopers-yify-77412.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "125276",
+    "imdb_id": "tt3272570",
+    "title": "All Things Must Pass: The Rise and Fall of Tower Records",
+    "slug": "all-things-must-pass-the-rise-and-fall-of-tower-records-2015",
+    "year": 2015,
+    "genre": [" Documentary", " History", " Music \n\t\t\t\t"],
+    "directors": [""],
+    "cast": [" Russ Solomon", " Chuck D.", " Chris Cornell\n\t\t\t\t"],
+    "rating": 7.2,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/125276.jpg",
+    "cover": "http://yify.is/data/medium_cover/125276.jpg",
+    "backdrop": "http://yify.is/data/background/125276.jpg",
+    "synopsis": "\n          Established in 1960, Tower Records was once a retail powerhouse with two hundred stores, in thirty countries, on five continents. From humble beginnings in a small-town drugstore, Tower Records eventually became the heart and soul of the music world, and a powerful force in the music industry. In 1999, Tower Records made $1 billion. In 2006, the company filed for bankruptcy. What went wrong? Everyone thinks they know what killed Tower Records: The Internet. But that's not the story. \"All Things Must Pass\" is a feature documentary film examining this iconic company's explosive trajectory, tragic demise, and legacy forged by its rebellious founder Russ Solomon.        ",
+    "trailer": "https://www.youtube.com/watch?v=DAepjF6_N68",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/AFE0D7CE5C1E2DF073E4D167BD0298FFAFD983D8.torrent",
+        "magnet": "magnet:?xt=urn:btih:AFE0D7CE5C1E2DF073E4D167BD0298FFAFD983D8&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "742370836",
+        "filesize": "707.98 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/all-things-must-pass-the-rise-and-fall-of-tower-records-yify-77512.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "51092",
+    "imdb_id": "tt1861343",
+    "title": "Hayride",
+    "slug": "hayride-2012",
+    "year": 2012,
+    "genre": ["Crime", " Drama", " Horror"],
+    "directors": ["Terron R. Parsons"],
+    "cast": ["Richard Tyson", " Sherri Eakin", " Jeremy Ivy", " Jeremy Sande", " Corlandos Scott", " Kara Riann Brown", " Armand J. Campbell Jr.", " Randy Hicks", " Shannon Box", " Mark Tunstall", " Dominique Elizabeth Austin", " Jessica Blevins", " Carol Bray", " Mitch Bryars Jr.", " Bennett Wayne Dean Sr.", " Becca Farnell", " Rob Felty", " Kyle David Gaines", " Caleb Gautreaux", " Dustin Hicks", " Kelly Houk", " Franklin Howard", " Christopher Howell", " Garrett Hughes", " Kelsey Kelly", " Pam Kelly", " Shannon Kelly", " Melyssa Kidder", " Jordan Lawhorn", " Travis Long"],
+    "rating": 3.4,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/51092.jpg",
+    "cover": "http://yify.is/data/medium_cover/51092.jpg",
+    "backdrop": "http://yify.is/data/background/51092.jpg",
+    "synopsis": "Steven Summers returns home to southern Alabama from college with his girlfriend to attend his Uncle's annual Haunted Hayride. Unaware that an escaped killer is on the loose, Steven will soon face the real life embodiment of PITCHFORK a character his uncle created for the hayride and Steven's childhood tormentor. Steven will soon realize that not all childhood fears are imagined when the legend of Pitchfork suddenly becomes dangerously real.",
+    "trailer": "https://www.youtube.com/watch?v=JwH59m9Wtn0",
+    "google_video": "http://tunemovie.is?getlink=1&link=https://picasaweb.google.com/htdesignz/Y…k-5k-5JNREkxk-5npVeE1Ek-5k-5BNemd5k-5URjME5Uk-5Xk-8k-0#6025751034382074530",
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/4DD5BC86AEFC9B1E5EB28ADB8F999E4415151434.torrent",
+        "magnet": "magnet:?xt=urn:btih:4DD5BC86AEFC9B1E5EB28ADB8F999E4415151434&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "715548262",
+        "filesize": "682.4 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/C551736581B6CB79A2AA25060CC9C3C3007F975F.torrent",
+        "magnet": "magnet:?xt=urn:btih:C551736581B6CB79A2AA25060CC9C3C3007F975F&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1524713390",
+        "filesize": "1.42 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts"
+  }, {
+    "type": "movie",
+    "id": "37303",
+    "imdb_id": "tt1104679",
+    "title": "666: The Beast",
+    "slug": "666-the-beast-2007",
+    "year": 2007,
+    "genre": [" Horror", " Thriller \n"],
+    "directors": [" Nick Everhart "],
+    "cast": [" Chad Mathews", " Makinna Ridgway", " Alma S Grey "],
+    "rating": 3.4,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/37303.jpg",
+    "cover": "http://yify.is/data/medium_cover/37303.jpg",
+    "backdrop": "http://yify.is/data/background/37303.jpg",
+    "synopsis": "",
+    "trailer": "https://www.youtube.com/watch?v=V-UnwKeaazQ",
+    "google_video": "http://watch32.is/?getlink=1&link=https://picasaweb.google.com/htdesignz/YU…UlNNMk1Ek-5k-5VPVEV4k-5XpBeU1URXdOk-4ll6k-5VRJeQk-0k-0#6039911302110663122",
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/1B01BC88261A9E1990CD861332969F1AF2121B5A.torrent",
+        "magnet": "magnet:?xt=urn:btih:1B01BC88261A9E1990CD861332969F1AF2121B5A&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "703594496",
+        "filesize": "671 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/F316E7A6A1754F743C0DE02209DBAA5C08A2C8D1.torrent",
+        "magnet": "magnet:?xt=urn:btih:F316E7A6A1754F743C0DE02209DBAA5C08A2C8D1&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1471026298",
+        "filesize": "1.37 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "es": "http://www.yifysubtitles.com/subtitle-api/666-the-beast-yify-77409.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "46719",
+    "imdb_id": "tt2385047",
+    "title": "Deadliest Prey",
+    "slug": "deadliest-prey-2013",
+    "year": 2013,
+    "genre": [" Action \n"],
+    "directors": [" David A Prior "],
+    "cast": [" Ted Prior", " Tara Kleinpeter", " David Campbell "],
+    "rating": 5,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/46719.jpg",
+    "cover": "http://yify.is/data/medium_cover/46719.jpg",
+    "backdrop": "http://yify.is/data/background/46719.jpg",
+    "synopsis": "",
+    "trailer": "https://www.youtube.com/watch?v=0XhFWOCskh4",
+    "google_video": "http://tunemovie.is?getlink=1&link=https://picasaweb.google.com/htdesignz/Y…Rkl6k-1XhNRGk-65k-5mpReU9EY3hNekUyk-5npFMk5qk-1k-50k-0#6109264287131671666",
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/15E8117806D0AF5CAF8DFFBB965C0752D096F178.torrent",
+        "magnet": "magnet:?xt=urn:btih:15E8117806D0AF5CAF8DFFBB965C0752D096F178&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "627992166",
+        "filesize": "598.9 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts"
+  }, {
+    "type": "movie",
+    "id": "63823",
+    "imdb_id": "tt0102910",
+    "title": "Shock 'Em Dead",
+    "slug": "shock-em-dead-1991",
+    "year": 1991,
+    "genre": ["Horror", " Thriller", " Music"],
+    "directors": ["Mark Freed"],
+    "cast": ["Traci Lords", " Troy Donahue", " Aldo Ray", " Stephen Quadros", " Tim Moffett", " Markus Grupa", " Karen Russell", " Gina Parks", " Laurel Wiley", " Tyger Sodipe", " Christopher Maleki", " David Homb", " Madison Monk", " Yankee Sulivan", " Barne Subaski", " Miyako Kirksey", " Kathleen Kane", " Phillip Irwin Cooper", " Danny Spear", " Mark Richardson", " Pete Knight", " Daniel Sidlow", " Ross Hamilton", " Anthony Christian", " Scott L. Schwartz", " Dina C. Scott", " Sara Green", " Suzanne Ager", " Jackie Moen", " Jason Adelman"],
+    "rating": 5.5,
+    "runtime": 93,
+    "image": "http://yify.is/data/medium_cover/63823.jpg",
+    "cover": "http://yify.is/data/medium_cover/63823.jpg",
+    "backdrop": "http://yify.is/data/background/63823.jpg",
+    "synopsis": "Martin is a total loser who makes a deal with the devil to become the greatest rock star in the world.",
+    "trailer": "https://www.youtube.com/watch?v=oOg7mprld8Y",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/21BA013E7785DC1E0947464BBA7916243268AC35.torrent",
+        "magnet": "magnet:?xt=urn:btih:21BA013E7785DC1E0947464BBA7916243268AC35&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "740525342",
+        "filesize": "706.22 MB",
+        "seed": 26,
+        "peer": 59,
+        "health": "medium"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/A7373B2DCFA4B91AEE393B7DEA5D31083B6CC244.torrent",
+        "magnet": "magnet:?xt=urn:btih:A7373B2DCFA4B91AEE393B7DEA5D31083B6CC244&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1546188226",
+        "filesize": "1.44 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts"
+  }, {
+    "type": "movie",
+    "id": "110211",
+    "imdb_id": "tt3397918",
+    "title": "Harbinger Down",
+    "slug": "harbinger-down-2015",
+    "year": 2015,
+    "genre": [" Horror", " Sci-Fi \n"],
+    "directors": [" Alec Gillis "],
+    "cast": [" Lance Henriksen", " Camille Balsamo", " Matt Winston "],
+    "rating": 4.6,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/110211.jpg",
+    "cover": "http://yify.is/data/medium_cover/110211.jpg",
+    "backdrop": "http://yify.is/data/background/110211.jpg",
+    "synopsis": "\nA group of grad students have booked passage on the fishing trawler Harbinger to study the effects of global warming on a pod of Orcas in the Bering Sea. When the ship's crew dredges up a recently thawed piece of old Soviet space wreckage, things get downright deadly. It seems that the Russians experimented with tardigrades, tiny resilient animals able to withstand the extremes of space radiation. The creatures survived, but not without mutation. Now the crew is exposed to aggressively mutating organisms. And after being locked in ice for 3 decades, the creatures aren't about to give up the warmth of human companionship. ",
+    "trailer": "https://www.youtube.com/watch?v=GcS5OREsOsQ",
+    "google_video": "http://tunemovie.is?getlink=1&link=https://picasaweb.google.com/htdesignz/Y…-5k-5k-5JNVGd3k-5k-1pFMk5ERk-5NNelE1k-5k-1pReU1EZ3kk-0#6180216417349242082",
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/ACD3EF0E757054673DCCA61A3773487A8787782F.torrent",
+        "magnet": "magnet:?xt=urn:btih:ACD3EF0E757054673DCCA61A3773487A8787782F&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "647600537",
+        "filesize": "617.6 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/BF290B33CBBAD62C6D855E828448000EDC41A4AD.torrent",
+        "magnet": "magnet:?xt=urn:btih:BF290B33CBBAD62C6D855E828448000EDC41A4AD&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1352914698",
+        "filesize": "1.26 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/harbinger-down-yify-77337.zip",
+      "pt-br": "http://www.yifysubtitles.com/subtitle-api/harbinger-down-yify-77363.zip",
+      "el": "http://www.yifysubtitles.com/subtitle-api/harbinger-down-yify-77370.zip",
+      "hr": "http://www.yifysubtitles.com/subtitle-api/harbinger-down-yify-77449.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "125400",
+    "imdb_id": "tt0086014",
+    "title": "Nightmares",
+    "slug": "nightmares-1983",
+    "year": 1983,
+    "genre": [" Horror", " Sci-Fi \n\t\t\t\t"],
+    "directors": [""],
+    "cast": [" Cristina Raines", " Joe Lambie", " Anthony James\n\t\t\t\t"],
+    "rating": 5.7,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/125400.jpg",
+    "cover": "http://yify.is/data/medium_cover/125400.jpg",
+    "backdrop": "http://yify.is/data/background/125400.jpg",
+    "synopsis": "\n          Anthology of four horror tales with a supernatural twist based on urban legends.        ",
+    "trailer": "https://www.youtube.com/watch?v=8ehO9ivzUEQ",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/CE9ACD2946A3C88DD24621140A21C4EAC820411C.torrent",
+        "magnet": "magnet:?xt=urn:btih:CE9ACD2946A3C88DD24621140A21C4EAC820411C&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "740923801",
+        "filesize": "706.6 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "el": "http://www.yifysubtitles.com/subtitle-api/nightmares-yify-77421.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "125253",
+    "imdb_id": "tt4552524",
+    "title": "Jeruzalem",
+    "slug": "jeruzalem-2015",
+    "year": 2015,
+    "genre": [" Horror \n\t\t\t\t"],
+    "directors": [""],
+    "cast": [" Yael Grobglas", " Yon Tumarkin", " Danielle Jadelyn\n\t\t\t\t"],
+    "rating": 4.8,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/125253.jpg",
+    "cover": "http://yify.is/data/medium_cover/125253.jpg",
+    "backdrop": "http://yify.is/data/background/125253.jpg",
+    "synopsis": "\n          When a couple of American young adults fly to Israel to visit the city of Jerusalem, a biblical nightmare falls upon the city        ",
+    "trailer": "https://www.youtube.com/watch?v=QTIwfN-4hZ4",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/6E7DFCBB5891245D43F06878E0546E97297964BD.torrent",
+        "magnet": "magnet:?xt=urn:btih:6E7DFCBB5891245D43F06878E0546E97297964BD&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "722804408",
+        "filesize": "689.32 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/jeruzalem-yify-77398.zip",
+      "pt-br": "http://www.yifysubtitles.com/subtitle-api/jeruzalem-yify-77362.zip",
+      "el": "http://www.yifysubtitles.com/subtitle-api/jeruzalem-yify-77368.zip",
+      "id": "http://www.yifysubtitles.com/subtitle-api/jeruzalem-yify-77342.zip",
+      "he": "http://www.yifysubtitles.com/subtitle-api/jeruzalem-yify-77538.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "125360",
+    "imdb_id": "tt4270516",
+    "title": "Grandma",
+    "slug": "grandma-2015",
+    "year": 2015,
+    "genre": [" Comedy", " Drama \n\t\t\t\t"],
+    "directors": [""],
+    "cast": [" Lily Tomlin", " Julia Garner", " Marcia Gay Harden\n\t\t\t\t"],
+    "rating": 7,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/125360.jpg",
+    "cover": "http://yify.is/data/medium_cover/125360.jpg",
+    "backdrop": "http://yify.is/data/background/125360.jpg",
+    "synopsis": "\n          Lily Tomlin stars as Elle who has just gotten through breaking up with her girlfriend when Elle's granddaughter Sage unexpectedly shows up needing $600 bucks before sundown. Temporarily broke, Grandma Elle and Sage spend the day trying to get their hands on the cash as their unannounced visits to old friends and flames end up rattling skeletons and digging up secrets.        ",
+    "trailer": "https://www.youtube.com/watch?v=I0hJ7NHDglU",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/067390E814FEE9D4832C05B9C12E83860376767D.torrent",
+        "magnet": "magnet:?xt=urn:btih:067390E814FEE9D4832C05B9C12E83860376767D&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "602302054",
+        "filesize": "574.4 MB",
+        "seed": 46,
+        "peer": 178,
+        "health": "medium"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/0804DC38665063A1203419A345DBC38A352111F0.torrent",
+        "magnet": "magnet:?xt=urn:btih:0804DC38665063A1203419A345DBC38A352111F0&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1277752770",
+        "filesize": "1.19 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/grandma-yify-77344.zip",
+      "nl": "http://www.yifysubtitles.com/subtitle-api/grandma-yify-77558.zip",
+      "el": "http://www.yifysubtitles.com/subtitle-api/grandma-yify-77384.zip",
+      "id": "http://www.yifysubtitles.com/subtitle-api/grandma-yify-77369.zip",
+      "ar": "http://www.yifysubtitles.com/subtitle-api/grandma-yify-77343.zip",
+      "ro": "http://www.yifysubtitles.com/subtitle-api/grandma-yify-77345.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "125363",
+    "imdb_id": "tt1817771",
+    "title": "Freaks of Nature",
+    "slug": "freaks-of-nature-2015",
+    "year": 2015,
+    "genre": [" Comedy", " Horror \n\t\t\t\t"],
+    "directors": [""],
+    "cast": [" Nicholas Braun", " Mackenzie Davis", " Josh Fadem\n\t\t\t\t"],
+    "rating": 5.5,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/125363.jpg",
+    "cover": "http://yify.is/data/medium_cover/125363.jpg",
+    "backdrop": "http://yify.is/data/background/125363.jpg",
+    "synopsis": "\n          In Freaks of Nature, we welcome you to Dillford, where three days ago, everything was peaceful and business as usual: the vampires were at the top of the social order, the zombies were at the bottom, and the humans were getting along in the middle. But this delicate balance was ripped apart when the alien apocalypse arrived in Dillford and put an end to all the harmony. Now it's humans vs. vampires vs. zombies in all-out, blood-sucking, brain-eating, vamp-staking mortal combat - and all of them are on the run from the aliens. It is up to three teenagers - one human, one vampire, and one zombie - to team up, figure out how to get rid of the interplanetary visitors, and try to restore order to this \"normal\" little town.        ",
+    "trailer": "https://www.youtube.com/watch?v=rTkns9zwxTo",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/7F2170ADFED55E083086F85F41D2592CC86D84B4.torrent",
+        "magnet": "magnet:?xt=urn:btih:7F2170ADFED55E083086F85F41D2592CC86D84B4&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "711983104",
+        "filesize": "679 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/C543E8A8AA1FD54A17D4E3339EA53899450A1FD8.torrent",
+        "magnet": "magnet:?xt=urn:btih:C543E8A8AA1FD54A17D4E3339EA53899450A1FD8&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1513975971",
+        "filesize": "1.41 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/freaks-of-nature-yify-77339.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "59802",
+    "imdb_id": "tt0102724",
+    "title": "Psycho IV: The Beginning",
+    "slug": "psycho-iv-the-beginning-1990",
+    "year": 1990,
+    "genre": [" Horror", " Mystery", " Thriller \n"],
+    "directors": [" Mick Garris "],
+    "cast": [" Anthony Perkins", " Cch Pounder", " Henry Thomas "],
+    "rating": 5.5,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/59802.jpg",
+    "cover": "http://yify.is/data/medium_cover/59802.jpg",
+    "backdrop": "http://yify.is/data/background/59802.jpg",
+    "synopsis": "\nNorman Bates returns for this \"prequel\", once more having mommy trouble. This time around he is invited to share memories of mom with a radio talk show host, but the PYSCHO fears that he may kill again for his beloved is impregnated with his child and Norman cannot let another PYSCHO loose in the civilized world. ",
+    "trailer": "https://www.youtube.com/watch?v=DbotJWP9zZc",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/AF137074B6212CF4A064AE124688FCACCEBE9BC6.torrent",
+        "magnet": "magnet:?xt=urn:btih:AF137074B6212CF4A064AE124688FCACCEBE9BC6&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "732084305",
+        "filesize": "698.17 MB",
+        "seed": 45,
+        "peer": 33,
+        "health": "medium"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/6D1FA1DA93EEDEDF7A0BF4AAEC6262CFDFBB060B.torrent",
+        "magnet": "magnet:?xt=urn:btih:6D1FA1DA93EEDEDF7A0BF4AAEC6262CFDFBB060B&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1567663063",
+        "filesize": "1.46 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/psycho-iv-the-beginning-yify-77364.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "63656",
+    "imdb_id": "tt1703125",
+    "title": "Someday This Pain Will Be Useful to You",
+    "slug": "someday-this-pain-will-be-useful-to-you-2011",
+    "year": 2011,
+    "genre": ["Drama"],
+    "directors": ["Roberto Faenza"],
+    "cast": ["Lucy Liu", " Aubrey Plaza", " Stephen Lang", " Marcia Gay Harden", " Deborah Ann Woll", " Peter Gallagher", " Ellen Burstyn", " Siobhan Fallon", " Jonny Weston", " Toby Regbo", " Dree Hemingway", " Peter Y. Kim", " Christopher Mann", " Shaun Brown", " Rainer Judd"],
+    "rating": 5.8,
+    "runtime": 95,
+    "image": "http://yify.is/data/medium_cover/63656.jpg",
+    "cover": "http://yify.is/data/medium_cover/63656.jpg",
+    "backdrop": "http://yify.is/data/background/63656.jpg",
+    "synopsis": "James Sveck is a lonely young adult in the summer before he goes off to college at Brown University. Apart from hanging with his grandmother James prefers solitude. The story is told in the first person narration which helps give an intimate inside view of James as he works through his life at the therapy sessions which his parents insist he goes to. We learn about James's past and present through the stories he tells and his recounting of previous therapy sessions.",
+    "trailer": "https://www.youtube.com/watch?v=nHihP9EA7a0",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/FCC4363E3F0065B84854019A06FCFE067F470400.torrent",
+        "magnet": "magnet:?xt=urn:btih:FCC4363E3F0065B84854019A06FCFE067F470400&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "756484669",
+        "filesize": "721.44 MB",
+        "seed": 18,
+        "peer": 23,
+        "health": "medium"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/A709B0443DEC2452F77629F3B7A8189B2320F5E0.torrent",
+        "magnet": "magnet:?xt=urn:btih:A709B0443DEC2452F77629F3B7A8189B2320F5E0&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1610612736",
+        "filesize": "1.5 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts"
+  }, {
+    "type": "movie",
+    "id": "71050",
+    "imdb_id": "tt0060862",
+    "title": "The Professionals",
+    "slug": "the-professionals-1966",
+    "year": 1966,
+    "genre": ["Action", " Adventure", " Western"],
+    "directors": ["Richard Brooks"],
+    "cast": ["Burt Lancaster", " Lee Marvin", " Robert Ryan", " Woody Strode", " Jack Palance", " Claudia Cardinale", " Ralph Bellamy", " Joe De Santis", " Rafael Bertrand", " Jorge Mart&#xED;nez de Hoyos", " Marie Gomez", " Jos&#xE9; Ch&#xE1;vez", " Carlos Romero", " Vaughn Taylor", " David Cadiente", " Vincente Cadiente", " Elizabeth Campbell", " Don Carlos", " Leigh Chapman", " Roberto Contreras", " Dirk Evans", " Foster Hood", " Darwin Lamb", " Eddie Little Sky", " John Lopez", " John McKee", " Henry O&#x27;Brien", " Philip L. Parslow", " Ron Veto"],
+    "rating": 7.4,
+    "runtime": 117,
+    "image": "http://yify.is/data/medium_cover/71050.jpg",
+    "cover": "http://yify.is/data/medium_cover/71050.jpg",
+    "backdrop": "http://yify.is/data/background/71050.jpg",
+    "synopsis": "An arrogant Texas millionaire hires four adventurers to rescue his kidnapped wife from a notorious Mexican bandit.",
+    "trailer": "https://www.youtube.com/watch?v=iE7MSE0bDe8",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/C20747D833220A20F7774742EEC9C40C606CB7F2.torrent",
+        "magnet": "magnet:?xt=urn:btih:C20747D833220A20F7774742EEC9C40C606CB7F2&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "890429767",
+        "filesize": "849.18 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/the-professionals-yify-77243.zip",
+      "pt-br": "http://www.yifysubtitles.com/subtitle-api/the-professionals-yify-77198.zip",
+      "el": "http://www.yifysubtitles.com/subtitle-api/the-professionals-yify-77208.zip",
+      "pt": "http://www.yifysubtitles.com/subtitle-api/the-professionals-yify-77261.zip",
+      "es": "http://www.yifysubtitles.com/subtitle-api/the-professionals-yify-77187.zip",
+      "sr": "http://www.yifysubtitles.com/subtitle-api/the-professionals-yify-77206.zip",
+      "ro": "http://www.yifysubtitles.com/subtitle-api/the-professionals-yify-77273.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "49087",
+    "imdb_id": "tt0385726",
+    "title": "Glory Road",
+    "slug": "glory-road-2006",
+    "year": 2006,
+    "genre": ["Comedy", " Drama", " Sport"],
+    "directors": ["James Gartner"],
+    "cast": ["Josh Lucas", " Derek Luke", " Austin Nichols", " Jon Voight", " Evan Jones", " Schin A.S. Kerr", " Alphonso McAuley", " Mehcad Brooks", " Sam Jones III", " Damaine Radcliff", " Emily Deschanel", " Al Shearer", " Red West", " Kip Weeks", " Mitch Eakins"],
+    "rating": 7.2,
+    "runtime": 118,
+    "image": "http://yify.is/data/medium_cover/49087.jpg",
+    "cover": "http://yify.is/data/medium_cover/49087.jpg",
+    "backdrop": "http://yify.is/data/background/49087.jpg",
+    "synopsis": "40 years ago, Don Haskins went on the recruiting trail to find the best talent in the land, black or white. 7 blacks and 5 whites made up the legendary 1965-66 Texas Western Miners. They were mocked and ridiculed for their showboating and flaunting of black players on the court. Yet, in the face of seemingly insurmountable odds, Haskins and his Miners came together as a team united to reach the National Championship game against powerhouse Kentucky.",
+    "trailer": "https://www.youtube.com/watch?v=uEd69QSBI0s",
+    "google_video": "http://watch32.is/?getlink=1&link=https://picasaweb.google.com/htdesignz/YU…Y1ZGRkl6k-1XdORGd3k-5kRZeU56VXlOREkxk-5VRFME56Uk-50k-0#6048046275242511474",
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/F0AF7F8B55F586C8777F5D4BE72E76C822DD049A.torrent",
+        "magnet": "magnet:?xt=urn:btih:F0AF7F8B55F586C8777F5D4BE72E76C822DD049A&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "903851540",
+        "filesize": "861.98 MB",
+        "seed": 8,
+        "peer": 23,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/BA00DAF59A220C7DEC494D423D581B71A8F83EFB.torrent",
+        "magnet": "magnet:?xt=urn:btih:BA00DAF59A220C7DEC494D423D581B71A8F83EFB&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1921997864",
+        "filesize": "1.79 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/glory-road-yify-77283.zip",
+      "el": "http://www.yifysubtitles.com/subtitle-api/glory-road-yify-77331.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "43091",
+    "imdb_id": "tt0118887",
+    "title": "Cop Land",
+    "slug": "cop-land-1997",
+    "year": 1997,
+    "genre": ["Crime", " Drama", " Thriller"],
+    "directors": ["James Mangold"],
+    "cast": ["Sylvester Stallone", " Harvey Keitel", " Ray Liotta", " Robert De Niro", " Peter Berg", " Janeane Garofalo", " Robert Patrick", " Michael Rapaport", " Annabella Sciorra", " Noah Emmerich", " Cathy Moriarty", " John Spencer", " Frank Vincent", " Malik Yoba", " Arthur J. Nascarella"],
+    "rating": 6.9,
+    "runtime": 104,
+    "image": "http://yify.is/data/medium_cover/43091.jpg",
+    "cover": "http://yify.is/data/medium_cover/43091.jpg",
+    "backdrop": "http://yify.is/data/background/43091.jpg",
+    "synopsis": "Sometime in the 1970's, police officers from New York wanted a safe haven to live, away from the dangers of the streets of New York, this is when they established a &#x22;Cop Land&#x22; in the small New Jersey town of Garrison. Freddy Heflin who was always admired by the New York cops wanted to become one, but because he was deaf in one ear this prevents him from achieving his goal, but has become sheriff of Garrison. Recently there have been a dark omen surrounding the NYPD, and Freddy is now investigating on this case, then Internal Affairs officer Mo Tilden is also on the case and asks Freddy for help, but Freddy could not. Now Freddy suspects that a New York cop named Ray Donlan might be one of the many cops who is corrupted by the mob and other criminals. Now, Freddy must find a cop who is nicknamed &#x22;Superboy&#x22; who can testify against Donlan and protect him, before Donlan finds Superboy and kills him.",
+    "trailer": "https://www.youtube.com/watch?v=-jmDnj8k83Y",
+    "google_video": "http://watch32.is/?getlink=1&link=https://picasaweb.google.com/htdesignz/YU…R2NYZEZJell3k-5kRjM01EY3lORFEk-2k-5npnNE1qk-5XdOVGk-89#6047707244478823058",
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/B2AD5F73F79117DA9B69AC45055BCC71ADE4BB37.torrent",
+        "magnet": "magnet:?xt=urn:btih:B2AD5F73F79117DA9B69AC45055BCC71ADE4BB37&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "807969751",
+        "filesize": "770.54 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/cop-land-yify-77312.zip",
+      "nl": "http://www.yifysubtitles.com/subtitle-api/cop-land-yify-77452.zip",
+      "el": "http://www.yifysubtitles.com/subtitle-api/cop-land-yify-77211.zip",
+      "es": "http://www.yifysubtitles.com/subtitle-api/cop-land-yify-77324.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "41493",
+    "imdb_id": "tt0062737",
+    "title": "Blackbeard's Ghost",
+    "slug": "blackbeards-ghost-1968",
+    "year": 1968,
+    "genre": [" Comedy", " Family", " Fantasy \n"],
+    "directors": [" Robert Stevenson "],
+    "cast": [" Peter Ustinov", " Dean Jones", " Suzanne Pleshette "],
+    "rating": 6.8,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/41493.jpg",
+    "cover": "http://yify.is/data/medium_cover/41493.jpg",
+    "backdrop": "http://yify.is/data/background/41493.jpg",
+    "synopsis": "\nIn this comedy, Peter Ustinov is the famous pirate's ghost that returns to our time. Blackbeard has been cursed by his last wife who was a notorious witch, so that he will never die. The only way to \"break\" the curse is to do (for once in his life) a good act. Is the famous pirate able to do something good? ",
+    "trailer": "https://www.youtube.com/watch?v=0pgOSllKF_0",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/0E36AFF9A6A380C4BB91A2EA8175239BAEE098E8.torrent",
+        "magnet": "magnet:?xt=urn:btih:0E36AFF9A6A380C4BB91A2EA8175239BAEE098E8&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "801468579",
+        "filesize": "764.34 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/blackbeards-ghost-yify-77281.zip",
+      "el": "http://www.yifysubtitles.com/subtitle-api/blackbeards-ghost-yify-77330.zip",
+      "sr": "http://www.yifysubtitles.com/subtitle-api/blackbeards-ghost-yify-77550.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "53577",
+    "imdb_id": "tt0051819",
+    "title": "Kings Go Forth",
+    "slug": "kings-go-forth-1958",
+    "year": 1958,
+    "genre": ["Drama", " War", " Action", " Romance"],
+    "directors": ["Delmer Daves"],
+    "cast": ["Frank Sinatra", " Tony Curtis", " Natalie Wood", " Leora Dana", " Karl Swenson", " Ann Codee", " Eddie Ryder", " Jacques Berthe"],
+    "rating": 6.6,
+    "runtime": 109,
+    "image": "http://yify.is/data/medium_cover/53577.jpg",
+    "cover": "http://yify.is/data/medium_cover/53577.jpg",
+    "backdrop": "http://yify.is/data/background/53577.jpg",
+    "synopsis": "Race, love, and war. The Allies have landed in France, set up in a coastal town, where Lt. Sam Loggins, a serious guy from Manhattan's west side, falls hard for Monique Blair, an American raised in France. Loggins' sergeant, Britt Harris, a playboy from Jersey, also finds Monique attractive. She chooses one to love and the other to befriend after disclosing her parents' history and why she lives in France. The men say it makes no difference, a wedding is announced, and the soldiers face a dangerous mission behind enemy lines. But is everyone being truthful?",
+    "trailer": "https://www.youtube.com/watch?v=xtsT8XcErAI",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/54FC870D72A877B79121207F504A55283F0B7395.torrent",
+        "magnet": "magnet:?xt=urn:btih:54FC870D72A877B79121207F504A55283F0B7395&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "812300369",
+        "filesize": "774.67 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/kings-go-forth-yify-77122.zip",
+      "pt-br": "http://www.yifysubtitles.com/subtitle-api/kings-go-forth-yify-77505.zip",
+      "es": "http://www.yifysubtitles.com/subtitle-api/kings-go-forth-yify-77123.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "113294",
+    "imdb_id": "tt3975510",
+    "title": "One and Two",
+    "slug": "one-and-two-2015",
+    "year": 2015,
+    "genre": [" Drama", " Fantasy", " Thriller \n"],
+    "directors": [" Andrew Droz Palermo "],
+    "cast": [" Kiernan Shipka", " Timothee Chalamet", " Elizabeth Reaser "],
+    "rating": 5.3,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/113294.jpg",
+    "cover": "http://yify.is/data/medium_cover/113294.jpg",
+    "backdrop": "http://yify.is/data/background/113294.jpg",
+    "synopsis": "\nTwo siblings discover a supernatural escape from a troubled home, but find their bond tested when reality threatens to tear their family apart. ",
+    "trailer": "https://www.youtube.com/watch?v=GT0ia-M6nzY",
+    "google_video": "http://tunemovie.is?getlink=1&link=https://picasaweb.google.com/htdesignz/Y…RVp5k-5k-5JNVGd6k-5VRjek5EVk-5ROREE1k-5XpjM01EYzk-3k-0#6183173458409377074",
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/F7393EA742D55870A31F7F294B8484B68B7A681D.torrent",
+        "magnet": "magnet:?xt=urn:btih:F7393EA742D55870A31F7F294B8484B68B7A681D&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "703279923",
+        "filesize": "670.7 MB",
+        "seed": 12,
+        "peer": 59,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/E2BDAC8B8416A2085D6A2B3D7B6651B1CB72D3FD.torrent",
+        "magnet": "magnet:?xt=urn:btih:E2BDAC8B8416A2085D6A2B3D7B6651B1CB72D3FD&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1481763717",
+        "filesize": "1.38 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/one-and-two-yify-77124.zip",
+      "el": "http://www.yifysubtitles.com/subtitle-api/one-and-two-yify-77137.zip",
+      "es": "http://www.yifysubtitles.com/subtitle-api/one-and-two-yify-77491.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "73024",
+    "imdb_id": "tt1025102",
+    "title": "The Pardon",
+    "slug": "the-pardon-2013",
+    "year": 2013,
+    "genre": [" Drama \n"],
+    "directors": [" Tom Anton "],
+    "cast": [" Jaime King", " John Hawkes", " Tj Thyne "],
+    "rating": 5.6,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/73024.jpg",
+    "cover": "http://yify.is/data/medium_cover/73024.jpg",
+    "backdrop": "http://yify.is/data/background/73024.jpg",
+    "synopsis": "",
+    "trailer": "https://www.youtube.com/watch?v=oe9yC13crc0",
+    "google_video": "http://tunemovie.is?getlink=1&link=https://picasaweb.google.com/htdesignz/Y…Rk-1pOk-4kEyk-5k-1pVd056VXhNk-4kF4k-5VRReU1EZzFNQk-509#6062507512011420850",
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/36E96515CB1DA313424500FB89D019A5BCD08BB8.torrent",
+        "magnet": "magnet:?xt=urn:btih:36E96515CB1DA313424500FB89D019A5BCD08BB8&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "868430643",
+        "filesize": "828.2 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/D55C0B9C0EF964004D626856DE76745840A25B1A.torrent",
+        "magnet": "magnet:?xt=urn:btih:D55C0B9C0EF964004D626856DE76745840A25B1A&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1846835937",
+        "filesize": "1.72 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts"
+  }, {
+    "type": "movie",
+    "id": "125221",
+    "imdb_id": "tt3319920",
+    "title": "Regression",
+    "slug": "regression-2015",
+    "year": 2015,
+    "genre": [" Horror", " Mystery", " Thriller \n\t\t\t\t"],
+    "directors": [""],
+    "cast": [" Emma Watson", " Ethan Hawke", " David Thewlis\n\t\t\t\t"],
+    "rating": 5.8,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/125221.jpg",
+    "cover": "http://yify.is/data/medium_cover/125221.jpg",
+    "backdrop": "http://yify.is/data/background/125221.jpg",
+    "synopsis": "\n          A young girl is sexually abused by her father. Thus, begins the disturbing tale of a father and daughter torn apart, thrown into the center of a conspiracy that shocks the nation.        ",
+    "trailer": "https://www.youtube.com/watch?v=-pBwIsVGaL4",
+    "google_video": "http://watch32.is/?getlink=1&link=https://picasaweb.google.com/htdesignz/YU…5qSk-5BNemN5k-5k-1pFeU1UQk-5VNk-4lE1k-5XpVNE5nPk-50k-0#6243722121092493586",
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/403DEA704182EDCC98A7609A53DBF4322072F50A.torrent",
+        "magnet": "magnet:?xt=urn:btih:403DEA704182EDCC98A7609A53DBF4322072F50A&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "817239162",
+        "filesize": "779.38 MB",
+        "seed": 29,
+        "peer": 168,
+        "health": "medium"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/FC71E5F06C52A56B9034A3635F408AF7FFFC5F04.torrent",
+        "magnet": "magnet:?xt=urn:btih:FC71E5F06C52A56B9034A3635F408AF7FFFC5F04&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1728724336",
+        "filesize": "1.61 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/regression-yify-77131.zip",
+      "pt-br": "http://www.yifysubtitles.com/subtitle-api/regression-yify-77212.zip",
+      "el": "http://www.yifysubtitles.com/subtitle-api/regression-yify-77136.zip",
+      "pt": "http://www.yifysubtitles.com/subtitle-api/regression-yify-77265.zip",
+      "es": "http://www.yifysubtitles.com/subtitle-api/regression-yify-77149.zip",
+      "sr": "http://www.yifysubtitles.com/subtitle-api/regression-yify-77258.zip",
+      "ar": "http://www.yifysubtitles.com/subtitle-api/regression-yify-77219.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "73141",
+    "imdb_id": "tt2042447",
+    "title": "The Amityville Haunting",
+    "slug": "the-amityville-haunting-2011",
+    "year": 2011,
+    "genre": ["Horror"],
+    "directors": ["Geoff Meed"],
+    "cast": ["Luke Barnett", " Casey Campbell", " Devin Clark", " Jon Gale", " Piper Kennedy", " Jon Kondelik", " Gracie Largent", " Tyler Shamy", " Amy Van Horne", " Jason Williams"],
+    "rating": 2.8,
+    "runtime": 86,
+    "image": "http://yify.is/data/medium_cover/73141.jpg",
+    "cover": "http://yify.is/data/medium_cover/73141.jpg",
+    "backdrop": "http://yify.is/data/background/73141.jpg",
+    "synopsis": "This movie is a 'found-footage' film about the Benson family who move in to the infamous house where the DeFeo family were murdered in the 1970s over 30 years earlier. Things start happening to anyone who visits this house, and whoever lives there. This is the footage retrieved from the camera.",
+    "trailer": "https://www.youtube.com/watch?v=z9bNNiqmSvc",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/D32B362E7EA8B513C4CCDDBB17AF0F33F6B3C572.torrent",
+        "magnet": "magnet:?xt=urn:btih:D32B362E7EA8B513C4CCDDBB17AF0F33F6B3C572&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "662165258",
+        "filesize": "631.49 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/715C58AB0DCA1C7AE47793162222D3164723CD6E.torrent",
+        "magnet": "magnet:?xt=urn:btih:715C58AB0DCA1C7AE47793162222D3164723CD6E&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1406601789",
+        "filesize": "1.31 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts"
+  }, {
+    "type": "movie",
+    "id": "120684",
+    "imdb_id": "tt2245003",
+    "title": "Miss You Already",
+    "slug": "miss-you-already-2015",
+    "year": 2015,
+    "genre": [" Comedy", " Drama", " Romance \r\n\t\t\t\t"],
+    "directors": [""],
+    "cast": [" Drew Barrymore", " Toni Collette", " Dominic Cooper\r\n\t\t\t\tViews: 1351\r\n\t\t\t\t"],
+    "rating": 6.6,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/120684.jpg",
+    "cover": "http://yify.is/data/medium_cover/120684.jpg",
+    "backdrop": "http://yify.is/data/background/120684.jpg",
+    "synopsis": "\r\n          The friendship between two life-long girlfriends is put to the test when one starts a family and the other falls ill.        ",
+    "trailer": "https://www.youtube.com/watch?v=K5LdNvLXddA",
+    "google_video": "http://watch32.is/?getlink=1&link=https://picasaweb.google.com/htdesignz/YU…UlNNMk1qSk-5JPREl4k-5nprMk56Uk-5JPVGN4k-5lRVMk-3k-0k-0#6226821796746971554",
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/5FB718CAFDA89EB519454B00A97129680939FA76.torrent",
+        "magnet": "magnet:?xt=urn:btih:5FB718CAFDA89EB519454B00A97129680939FA76&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "865599488",
+        "filesize": "825.5 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/miss-you-already-yify-77126.zip",
+      "el": "http://www.yifysubtitles.com/subtitle-api/miss-you-already-yify-77515.zip",
+      "es": "http://www.yifysubtitles.com/subtitle-api/miss-you-already-yify-77148.zip",
+      "sr": "http://www.yifysubtitles.com/subtitle-api/miss-you-already-yify-77537.zip",
+      "sv": "http://www.yifysubtitles.com/subtitle-api/miss-you-already-yify-77129.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "65678",
+    "imdb_id": "tt1114680",
+    "title": "That Evening Sun",
+    "slug": "that-evening-sun-2009",
+    "year": 2009,
+    "genre": ["Drama"],
+    "directors": ["Scott Teems"],
+    "cast": ["Hal Holbrook", " Ray McKinnon", " Walton Goggins", " Mia Wasikowska", " Carrie Preston", " Barry Corbin", " Dixie Carter", " Barlow Jacobs", " Anthony Reynolds", " Brian Edward Keith", " Bruce McKinnon", " William J. Mode", " Jacob Parkhurst"],
+    "rating": 7.1,
+    "runtime": 109,
+    "image": "http://yify.is/data/medium_cover/65678.jpg",
+    "cover": "http://yify.is/data/medium_cover/65678.jpg",
+    "backdrop": "http://yify.is/data/background/65678.jpg",
+    "synopsis": "An aging Tennessee farmer returns to his homestead and must confront a family betrayal, the reappearance of an old enemy, and the loss of his farm.",
+    "trailer": "https://www.youtube.com/watch?v=tq4KnreDMgQ",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/2EB9D32A1BA9EEC7037B4A8305DAAB8B33EC42AE.torrent",
+        "magnet": "magnet:?xt=urn:btih:2EB9D32A1BA9EEC7037B4A8305DAAB8B33EC42AE&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "832936345",
+        "filesize": "794.35 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/2E1FE37CEBFF64FC87A93232EAC7DF16526F42D8.torrent",
+        "magnet": "magnet:?xt=urn:btih:2E1FE37CEBFF64FC87A93232EAC7DF16526F42D8&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1771674009",
+        "filesize": "1.65 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts"
+  }, {
+    "type": "movie",
+    "id": "66969",
+    "imdb_id": "tt0070290",
+    "title": "The Last Detail",
+    "slug": "the-last-detail-1973",
+    "year": 1973,
+    "genre": ["Comedy", " Drama"],
+    "directors": ["Hal Ashby"],
+    "cast": ["Jack Nicholson", " Otis Young", " Randy Quaid", " Clifton James", " Carol Kane", " Michael Moriarty", " Luana Anders", " Kathleen Miller", " Nancy Allen", " Gerry Salsberg", " Don McGovern ", " Pat Hamilton", " Michael Chapman", " Jim Henshaw", " Derek McGrath", " Gilda Radner", " Jim Horn", " John Castellano", " Hal Ashby", " Gerald Ayres", " Henry Calvert", " Peter Foldy", " Donald Warnock"],
+    "rating": 7.6,
+    "runtime": 104,
+    "image": "http://yify.is/data/medium_cover/66969.jpg",
+    "cover": "http://yify.is/data/medium_cover/66969.jpg",
+    "backdrop": "http://yify.is/data/background/66969.jpg",
+    "synopsis": "Two Navy men are ordered to bring a young offender to prison but decide to show him one last good time along the way.",
+    "trailer": "https://www.youtube.com/watch?v=6ZUfuN2DNJ0",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/2F06CC1284C786BB7A8C6F0F493D6E3A65A784D2.torrent",
+        "magnet": "magnet:?xt=urn:btih:2F06CC1284C786BB7A8C6F0F493D6E3A65A784D2&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "780203458",
+        "filesize": "744.06 MB",
+        "seed": 57,
+        "peer": 57,
+        "health": "medium"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/8D4861A87BF6093D24E720D34EF6BB158E8C15BA.torrent",
+        "magnet": "magnet:?xt=urn:btih:8D4861A87BF6093D24E720D34EF6BB158E8C15BA&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1675037245",
+        "filesize": "1.56 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "el": "http://www.yifysubtitles.com/subtitle-api/the-last-detail-yify-77074.zip",
+      "es": "http://www.yifysubtitles.com/subtitle-api/the-last-detail-yify-77132.zip",
+      "ar": "http://www.yifysubtitles.com/subtitle-api/the-last-detail-yify-77034.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "124819",
+    "imdb_id": "tt2884018",
+    "title": "Macbeth",
+    "slug": "macbeth-2015",
+    "year": 2015,
+    "genre": [" Drama", " War \n\t\t\t\t"],
+    "directors": [""],
+    "cast": [" Michael Fassbender", " Marion Cotillard", " Jack Madigan\n\t\t\t\t"],
+    "rating": 7.3,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/124819.jpg",
+    "cover": "http://yify.is/data/medium_cover/124819.jpg",
+    "backdrop": "http://yify.is/data/background/124819.jpg",
+    "synopsis": "\n          Macbeth, the Thane of Glamis, receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders his king and takes the throne for himself.        ",
+    "trailer": "https://www.youtube.com/watch?v=3Q3EnDtbg8w",
+    "google_video": "http://watch32.is/?getlink=1&link=https://picasaweb.google.com/htdesignz/YU…pJME1qRXdNemk-63k-51RVek16Rk-5BPRGsk-2k-5mk-89PQk-0k-0#6242103909533148946",
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/D66650CA586E6618A69EDFB3BDA7CA98FABA1F19.torrent",
+        "magnet": "magnet:?xt=urn:btih:D66650CA586E6618A69EDFB3BDA7CA98FABA1F19&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "880342466",
+        "filesize": "839.56 MB",
+        "seed": 161,
+        "peer": 738,
+        "health": "medium"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/44CC74A5A6A96669C20B8482CFA7FFCBEC537355.torrent",
+        "magnet": "magnet:?xt=urn:btih:44CC74A5A6A96669C20B8482CFA7FFCBEC537355&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1857573355",
+        "filesize": "1.73 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/macbeth-yify-77019.zip",
+      "pt-br": "http://www.yifysubtitles.com/subtitle-api/macbeth-yify-77209.zip",
+      "el": "http://www.yifysubtitles.com/subtitle-api/macbeth-yify-77095.zip",
+      "pt": "http://www.yifysubtitles.com/subtitle-api/macbeth-yify-77134.zip",
+      "es": "http://www.yifysubtitles.com/subtitle-api/macbeth-yify-77262.zip",
+      "tr": "http://www.yifysubtitles.com/subtitle-api/macbeth-yify-77457.zip",
+      "fr": "http://www.yifysubtitles.com/subtitle-api/macbeth-yify-77402.zip",
+      "sr": "http://www.yifysubtitles.com/subtitle-api/macbeth-yify-77205.zip",
+      "ar": "http://www.yifysubtitles.com/subtitle-api/macbeth-yify-77093.zip",
+      "ro": "http://www.yifysubtitles.com/subtitle-api/macbeth-yify-77069.zip",
+      "zh": "http://www.yifysubtitles.com/subtitle-api/macbeth-yify-77142.zip",
+      "bg": "http://www.yifysubtitles.com/subtitle-api/macbeth-yify-77112.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "65164",
+    "imdb_id": "tt0416243",
+    "title": "Submerged",
+    "slug": "submerged-2005",
+    "year": 2005,
+    "genre": ["Action", " Thriller"],
+    "directors": ["Anthony Hickox"],
+    "cast": ["Steven Seagal", " William Hope", " Vinnie Jones", " Christine Adams", " Nick Brimble", " Alison King", " P.H. Moriarty", " Gary Daniels", " Ross McCall", " Stephen Taylor", " Peter Youngblood Hills", " Adam Fogerty", " Chris Hazlewood", " Nikolai Sotirov", " William Tapley"],
+    "rating": 3.7,
+    "runtime": 96,
+    "image": "http://yify.is/data/medium_cover/65164.jpg",
+    "cover": "http://yify.is/data/medium_cover/65164.jpg",
+    "backdrop": "http://yify.is/data/background/65164.jpg",
+    "synopsis": "Chris Kody, imprisoned member of the US military, is released from prison and reunited with his old team in order to pursue a renegade scientist. The catch, the scientist has developed mind control technology that can make even your friends into heartless killers,",
+    "trailer": "https://www.youtube.com/watch?v=gLZIU3pNkOU",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/D487C46AD2B0F510E31E2D9D71DEB55453B66F62.torrent",
+        "magnet": "magnet:?xt=urn:btih:D487C46AD2B0F510E31E2D9D71DEB55453B66F62&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "734464573",
+        "filesize": "700.44 MB",
+        "seed": 12,
+        "peer": 45,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/81190A9A2A51187FC335166B52D23EF5EEF2E1C6.torrent",
+        "magnet": "magnet:?xt=urn:btih:81190A9A2A51187FC335166B52D23EF5EEF2E1C6&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1556925644",
+        "filesize": "1.45 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/submerged-yify-77399.zip",
+      "pt-br": "http://www.yifysubtitles.com/subtitle-api/submerged-yify-77070.zip",
+      "el": "http://www.yifysubtitles.com/subtitle-api/submerged-yify-77116.zip",
+      "pt": "http://www.yifysubtitles.com/subtitle-api/submerged-yify-77067.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "125306",
+    "imdb_id": "tt0072951",
+    "title": "Escape to Witch Mountain",
+    "slug": "escape-to-witch-mountain-1975",
+    "year": 1975,
+    "genre": [" Adventure", " Family", " Fantasy", " Mystery", " Sci-Fi \n\t\t\t\t"],
+    "directors": [""],
+    "cast": [" Eddie Albert", " Ray Milland", " Donald Pleasence\n\t\t\t\t"],
+    "rating": 6.3,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/125306.jpg",
+    "cover": "http://yify.is/data/medium_cover/125306.jpg",
+    "backdrop": "http://yify.is/data/background/125306.jpg",
+    "synopsis": "\n          Tia and Tony are two orphaned youngsters with extraordinary powers. Lucas Deranian poses as their uncle in order to get the kids into the clutches of Deranian's megalomanical boss, evil millionaire Aristotle Bolt, who wants to exploit them. Jason, a cynical widower, helps Tia and Tony \"escape to witch mountain,\" while at the same time Tia and Tony help Jason escape the pain of the loss of his wife.        ",
+    "trailer": "https://www.youtube.com/watch?v=hrkpBIuLYHk",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/218E6CABB74CF428901DEECCFD9F049E15844C80.torrent",
+        "magnet": "magnet:?xt=urn:btih:218E6CABB74CF428901DEECCFD9F049E15844C80&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "729221693",
+        "filesize": "695.44 MB",
+        "seed": 73,
+        "peer": 25,
+        "health": "good"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/F4D7C193CB4714526F4B7927E060FF959393CBEF.torrent",
+        "magnet": "magnet:?xt=urn:btih:F4D7C193CB4714526F4B7927E060FF959393CBEF&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1567663063",
+        "filesize": "1.46 GB",
+        "seed": 90,
+        "peer": 35,
+        "health": "good"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/escape-to-witch-mountain-yify-77021.zip",
+      "el": "http://www.yifysubtitles.com/subtitle-api/escape-to-witch-mountain-yify-77028.zip",
+      "pt": "http://www.yifysubtitles.com/subtitle-api/escape-to-witch-mountain-yify-77066.zip",
+      "es": "http://www.yifysubtitles.com/subtitle-api/escape-to-witch-mountain-yify-77277.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "122996",
+    "imdb_id": "tt3680410",
+    "title": "Last Cab to Darwin",
+    "slug": "last-cab-to-darwin-2015",
+    "year": 2015,
+    "genre": [" Comedy", " Drama", " Romance \n\t\t\t\t"],
+    "directors": [""],
+    "cast": [" Jacki Weaver", " Emma Hamilton", " John Howard\n\t\t\t\t"],
+    "rating": 7.3,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/122996.jpg",
+    "cover": "http://yify.is/data/medium_cover/122996.jpg",
+    "backdrop": "http://yify.is/data/background/122996.jpg",
+    "synopsis": "\n          Rex is a loner, and when he's told he doesn't have long to live, he embarks on an epic drive through the Australian outback from Broken Hill to Darwin to die on his own terms; but his journey reveals to him that before you can end your life, you have to live it, and to live it, you've got to share it.        ",
+    "trailer": "https://www.youtube.com/watch?v=hypCdpjTMDI",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/BA280B0E3338D7B7AB686CDB4899304C6B23E095.torrent",
+        "magnet": "magnet:?xt=urn:btih:BA280B0E3338D7B7AB686CDB4899304C6B23E095&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "950093742",
+        "filesize": "906.08 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/last-cab-to-darwin-yify-77015.zip",
+      "nl": "http://www.yifysubtitles.com/subtitle-api/last-cab-to-darwin-yify-77381.zip",
+      "ro": "http://www.yifysubtitles.com/subtitle-api/last-cab-to-darwin-yify-77037.zip",
+      "bg": "http://www.yifysubtitles.com/subtitle-api/last-cab-to-darwin-yify-77065.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "117817",
+    "imdb_id": "tt3687310",
+    "title": "Criminal Activities",
+    "slug": "criminal-activities-2015",
+    "year": 2015,
+    "genre": [" Crime", " Drama", " Thriller \r\n\t\t\t\t"],
+    "directors": [""],
+    "cast": [" Dan Stevens", " John Travolta", " Jackie Earle Haley\r\n\t\t\t\tViews: 4461\r\n\t\t\t\t"],
+    "rating": 5.8,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/117817.jpg",
+    "cover": "http://yify.is/data/medium_cover/117817.jpg",
+    "backdrop": "http://yify.is/data/background/117817.jpg",
+    "synopsis": "\r\n          Pic is about four young guys who reunite at an ex-classmate's funeral. One mentions to the others inside information on a stock that is a guaranteed lock to make them instant millionaires. Unfortunately, the deal goes south along with their investment. Things go from bad to worse: one of them borrowed his share of the money from a mobster.        ",
+    "trailer": "https://www.youtube.com/watch?v=QoYfdgskwqg",
+    "google_video": "http://watch32.is/?getlink=1&link=https://picasaweb.google.com/htdesignz/YU…k-5mpJeE9USXdNekkyk-5npBeE9Uk-5k-5BOREExk-5UE9PQk-0k-0#6219203267019344050",
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/50F8AE31E540589EFABAE990E1C333C92AAEC467.torrent",
+        "magnet": "magnet:?xt=urn:btih:50F8AE31E540589EFABAE990E1C333C92AAEC467&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "724607959",
+        "filesize": "691.04 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/criminal-activities-yify-73380.zip",
+      "pt-br": "http://www.yifysubtitles.com/subtitle-api/criminal-activities-yify-73424.zip",
+      "da": "http://www.yifysubtitles.com/subtitle-api/criminal-activities-yify-73571.zip",
+      "nl": "http://www.yifysubtitles.com/subtitle-api/criminal-activities-yify-77202.zip",
+      "el": "http://www.yifysubtitles.com/subtitle-api/criminal-activities-yify-74227.zip",
+      "es": "http://www.yifysubtitles.com/subtitle-api/criminal-activities-yify-74029.zip",
+      "sr": "http://www.yifysubtitles.com/subtitle-api/criminal-activities-yify-77038.zip",
+      "ar": "http://www.yifysubtitles.com/subtitle-api/criminal-activities-yify-77360.zip",
+      "hr": "http://www.yifysubtitles.com/subtitle-api/criminal-activities-yify-76408.zip",
+      "he": "http://www.yifysubtitles.com/subtitle-api/criminal-activities-yify-74459.zip",
+      "bg": "http://www.yifysubtitles.com/subtitle-api/criminal-activities-yify-74936.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "41148",
+    "imdb_id": "tt0309377",
+    "title": "Blood Work",
+    "slug": "blood-work-2002",
+    "year": 2002,
+    "genre": ["Action", " Crime", " Drama", " Mystery", " Thriller"],
+    "directors": ["Clint Eastwood"],
+    "cast": ["Clint Eastwood", " Jeff Daniels", " Anjelica Huston", " Wanda De Jesus", " Tina Lifford", " Paul Rodriguez", " Dylan Walsh", " Mason Lucero", " Gerry Becker", " Rick Hoffman", " Alix Koromzay", " Igor Jijikine", " Dina Eastwood", " Beverly Leech", " June Kyoto Lu"],
+    "rating": 6.4,
+    "runtime": 110,
+    "image": "http://yify.is/data/medium_cover/41148.jpg",
+    "cover": "http://yify.is/data/medium_cover/41148.jpg",
+    "backdrop": "http://yify.is/data/background/41148.jpg",
+    "synopsis": "Retired FBI profiler Terry McCaleb (Eastwood), who has recently had a heart transplant, is hired by Graciela Rivers (De Jesus), to investigate the death of her sister, Gloria, who happens to have given McCaleb his heart. On the case, he soon deduces that the killer, who staged the murder to look like a random robbery, may actually be a serial killer Terry was trailing for years in the FBI. Can the elderly and feeble McCaleb, who had intended to spend his retirement living on his boat in the Los Angeles harbor, and who can't drive, and has to nap regularly, muster up the endurance to find the killer?",
+    "trailer": "https://www.youtube.com/watch?v=vMg7LZ-JF6I",
+    "google_video": "http://tunemovie.is?getlink=1&link=https://picasaweb.google.com/htdesignz/Y…SXpZd01UVk-5VOVEEyk-5URJMk16Qk-5NOemMxk-5k-1pJPQk-0k-0#6015950602630777522",
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/F7AD28E1421AC5D54B095510CDFB912F47392F03.torrent",
+        "magnet": "magnet:?xt=urn:btih:F7AD28E1421AC5D54B095510CDFB912F47392F03&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "849262673",
+        "filesize": "809.92 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts"
+  }, {
+    "type": "movie",
+    "id": "39452",
+    "imdb_id": "tt1887923",
+    "title": "Ambush at Dark Canyon",
+    "slug": "ambush-at-dark-canyon-2012",
+    "year": 2012,
+    "genre": [" Western \n"],
+    "directors": [" Dustin Rikert "],
+    "cast": [" Andrew W Walker", " Sydney Penny", " Jennifer Blanc "],
+    "rating": 4.9,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/39452.jpg",
+    "cover": "http://yify.is/data/medium_cover/39452.jpg",
+    "backdrop": "http://yify.is/data/background/39452.jpg",
+    "synopsis": "",
+    "trailer": "https://www.youtube.com/watch?v=2OT-EtrSxi0",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/2AFCBFFF3E0C960665188288D5B6BF20834FA2C9.torrent",
+        "magnet": "magnet:?xt=urn:btih:2AFCBFFF3E0C960665188288D5B6BF20834FA2C9&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "723852984",
+        "filesize": "690.32 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/6843CFC74571B965F2E609FA45485992987DCB32.torrent",
+        "magnet": "magnet:?xt=urn:btih:6843CFC74571B965F2E609FA45485992987DCB32&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1546188226",
+        "filesize": "1.44 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/ambush-at-dark-canyon-yify-76970.zip",
+      "es": "http://www.yifysubtitles.com/subtitle-api/ambush-at-dark-canyon-yify-76971.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "124809",
+    "imdb_id": "tt1658801",
+    "title": "Freeheld",
+    "slug": "freeheld-2015",
+    "year": 2015,
+    "genre": [" Biography", " Drama", " Romance \n\t\t\t\t"],
+    "directors": [""],
+    "cast": [" Julianne Moore", " Ellen Page", " Steve Carell\n\t\t\t\t"],
+    "rating": 6.1,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/124809.jpg",
+    "cover": "http://yify.is/data/medium_cover/124809.jpg",
+    "backdrop": "http://yify.is/data/background/124809.jpg",
+    "synopsis": "\n          New Jersey police lieutenant, Laurel Hester, and her registered domestic partner, Stacie Andree, both battle to secure Hester's pension benefits when she is diagnosed with terminal cancer.        ",
+    "trailer": "https://www.youtube.com/watch?v=blk27Jj9UE8",
+    "google_video": "https://2.bp.blogspot.com/FsxKHfrJkkPGPyr_2yf2ObqI0p1qXdIIoTGUcsAd4eU=m22",
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/E8AF04960AEAC169E897260B0F706D9FA92CD5AC.torrent",
+        "magnet": "magnet:?xt=urn:btih:E8AF04960AEAC169E897260B0F706D9FA92CD5AC&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "787281346",
+        "filesize": "750.81 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/9C2608D79081C9F86E5556D26845403B942A76CA.torrent",
+        "magnet": "magnet:?xt=urn:btih:9C2608D79081C9F86E5556D26845403B942A76CA&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1675037245",
+        "filesize": "1.56 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/freeheld-yify-76925.zip",
+      "pt": "http://www.yifysubtitles.com/subtitle-api/freeheld-yify-76973.zip",
+      "es": "http://www.yifysubtitles.com/subtitle-api/freeheld-yify-77088.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "122554",
+    "imdb_id": "tt3077214",
+    "title": "Suffragette",
+    "slug": "suffragette-2015",
+    "year": 2015,
+    "genre": [" Biography", " Drama", " History \n\t\t\t\t"],
+    "directors": [""],
+    "cast": [" Carey Mulligan", " Anne Marie Duff", " Helena Bonham Carter\n\t\t\t\t"],
+    "rating": 6.9,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/122554.jpg",
+    "cover": "http://yify.is/data/medium_cover/122554.jpg",
+    "backdrop": "http://yify.is/data/background/122554.jpg",
+    "synopsis": "\n          A drama that tracks the story of the foot soldiers of the early feminist movement, women who were forced underground to pursue a dangerous game of cat and mouse with an increasingly brutal State. These women were not primarily from the genteel educated classes, they were working women who had seen peaceful protest achieve nothing. Radicalized and turning to violence as the only route to change, they were willing to lose everything in their fight for equality - their jobs, their homes, their children and their lives. Maud was one such foot soldier. The story of her fight for dignity is as gripping and visceral as any thriller, it is also heart-breaking and inspirational.        ",
+    "trailer": "https://www.youtube.com/watch?v=056FI2Pq9RY",
+    "google_video": "http://watch32.is/?getlink=1&link=https://picasaweb.google.com/htdesignz/YU…RGSXpZeU16k-5XdPVEF6k-50RZd01UVk-5RPREF3k-5mpZPQk-0k-0#6233090386015880066",
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/15AD6316A4F852375932CD94D0A84287C3D5C102.torrent",
+        "magnet": "magnet:?xt=urn:btih:15AD6316A4F852375932CD94D0A84287C3D5C102&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "817543249",
+        "filesize": "779.67 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/742C9472308B395515AF43FA2982D4C788B2AB7B.torrent",
+        "magnet": "magnet:?xt=urn:btih:742C9472308B395515AF43FA2982D4C788B2AB7B&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1739461754",
+        "filesize": "1.62 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/suffragette-yify-76982.zip",
+      "pt-br": "http://www.yifysubtitles.com/subtitle-api/suffragette-yify-76996.zip",
+      "da": "http://www.yifysubtitles.com/subtitle-api/suffragette-yify-76984.zip",
+      "nl": "http://www.yifysubtitles.com/subtitle-api/suffragette-yify-77275.zip",
+      "el": "http://www.yifysubtitles.com/subtitle-api/suffragette-yify-76959.zip",
+      "tr": "http://www.yifysubtitles.com/subtitle-api/suffragette-yify-77146.zip",
+      "sr": "http://www.yifysubtitles.com/subtitle-api/suffragette-yify-76983.zip",
+      "he": "http://www.yifysubtitles.com/subtitle-api/suffragette-yify-77082.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "125022",
+    "imdb_id": "tt3254796",
+    "title": "Big Stone Gap",
+    "slug": "big-stone-gap-2014",
+    "year": 2014,
+    "genre": [" Comedy", " Romance \n\t\t\t\t"],
+    "directors": [""],
+    "cast": [" Ashley Judd", " Patrick Wilson", " Whoopi Goldberg\n\t\t\t\t"],
+    "rating": 5.8,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/125022.jpg",
+    "cover": "http://yify.is/data/medium_cover/125022.jpg",
+    "backdrop": "http://yify.is/data/background/125022.jpg",
+    "synopsis": "\n          Nestled in the Appalachian Mountains of Virginia, the tiny town of Big Stone Gap is home to some of the most charming eccentrics in the state. Ave Maria Mulligan is the town's self-proclaimed spinster, a thirty-five year old pharmacist with a \"mountain girl's body and a flat behind.\" She lives an amiable life with good friends and lots of hobbies until the fateful day in 1978 when she suddenly discovers that she's not who she always thought she was. Before she can blink, Ave's fielding marriage proposals, fighting off greedy family members, organizing a celebration for visiting celebrities, and planning the trip of a lifetime-a trip that could change her view of the world and her own place in it forever.        ",
+    "trailer": "https://www.youtube.com/watch?v=chSwktp5tlg",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/70E46934461A78F3C07E11ECE60A5121C02FACD3.torrent",
+        "magnet": "magnet:?xt=urn:btih:70E46934461A78F3C07E11ECE60A5121C02FACD3&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "785603624",
+        "filesize": "749.21 MB",
+        "seed": 7,
+        "peer": 11,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/31D20A70EB2723CE82E3554F3A456E79388677EB.torrent",
+        "magnet": "magnet:?xt=urn:btih:31D20A70EB2723CE82E3554F3A456E79388677EB&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1675037245",
+        "filesize": "1.56 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/big-stone-gap-yify-77025.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "40511",
+    "imdb_id": "tt0286499",
+    "title": "Bend It Like Beckham",
+    "slug": "bend-it-like-beckham-2002",
+    "year": 2002,
+    "genre": ["Comedy", " Drama", " Romance", " Sport"],
+    "directors": ["Gurinder Chadha"],
+    "cast": ["Parminder Nagra", " Keira Knightley", " Jonathan Rhys Meyers", " Anupam Kher", " Archie Panjabi", " Shaznay Lewis", " Frank Harper", " Juliet Stevenson", " Shaheen Khan", " Ameet Chana", " Pooja Shah", " Paven Virk", " Preeya Kalidas", " Trey Farley", " Saraj Chaudhry"],
+    "rating": 6.7,
+    "runtime": 112,
+    "image": "http://yify.is/data/medium_cover/40511.jpg",
+    "cover": "http://yify.is/data/medium_cover/40511.jpg",
+    "backdrop": "http://yify.is/data/background/40511.jpg",
+    "synopsis": "A comedy about bending the rules to reach your goal, Bend It Like Beckham explores the world of women's football, from kick-abouts in the park to freekicks in the Final. Set in Hounslow, West London and Hamburg, the film follows two 18 year olds with their hearts set on a future in professional soccer. Heart-stopping talent doesn't seem to be enough when your parents want you to hang up your football boots, find a nice boyfriend and learn to cook the perfect chapatti.",
+    "trailer": "https://www.youtube.com/watch?v=XsmbObwStSQ",
+    "google_video": "http://watch32.is/?getlink=1&link=https://picasaweb.google.com/htdesignz/YU…VVk-4k5qQk-5BNVEEyk-50RjM016RXlOelk1k-5XpBME1nPk-50k-0#6041068773127693042",
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/34E81AB1EA75D6EEACFED170EBC9AE5821670601.torrent",
+        "magnet": "magnet:?xt=urn:btih:34E81AB1EA75D6EEACFED170EBC9AE5821670601&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "854096609",
+        "filesize": "814.53 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      },
+      "1080p": {
+        "url": "http://yify.is/data/torrents/89030BC9952A08B8A88FF3C72DB33B895AA64B27.torrent",
+        "magnet": "magnet:?xt=urn:btih:89030BC9952A08B8A88FF3C72DB33B895AA64B27&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "1825361100",
+        "filesize": "1.7 GB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/bend-it-like-beckham-yify-76992.zip",
+      "el": "http://www.yifysubtitles.com/subtitle-api/bend-it-like-beckham-yify-77041.zip",
+      "es": "http://www.yifysubtitles.com/subtitle-api/bend-it-like-beckham-yify-77498.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "124807",
+    "imdb_id": "tt3164256",
+    "title": "Rock the Kasbah",
+    "slug": "rock-the-kasbah-2015",
+    "year": 2015,
+    "genre": [" Comedy", " Music \n\t\t\t\t"],
+    "directors": [""],
+    "cast": [" Bill Murray", " Leem Lubany", " Zooey Deschanel\n\t\t\t\t"],
+    "rating": 5.3,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/124807.jpg",
+    "cover": "http://yify.is/data/medium_cover/124807.jpg",
+    "backdrop": "http://yify.is/data/background/124807.jpg",
+    "synopsis": "\n          A down-on-his-luck music manager discovers a teenage girl with an extraordinary voice while on a music tour in Afghanistan and takes her to Kabul to compete on the popular television show, Afghan Star.        ",
+    "trailer": "https://www.youtube.com/watch?v=T_Xev0-h5iE",
+    "google_video": "http://watch32.is/?getlink=1&link=https://picasaweb.google.com/htdesignz/YU…-7MGVrk-5llRU00yk-5k-1pReE56RXpPVEV6k-5URJM05UZzBNVGM0#6241713913027584178",
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/8D60DB2F9D3A7D7215AD3F3BFBC27CB13C3824D0.torrent",
+        "magnet": "magnet:?xt=urn:btih:8D60DB2F9D3A7D7215AD3F3BFBC27CB13C3824D0&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "820919664",
+        "filesize": "782.89 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/rock-the-kasbah-yify-76928.zip",
+      "es": "http://www.yifysubtitles.com/subtitle-api/rock-the-kasbah-yify-77087.zip"
+    }
+  }, {
+    "type": "movie",
+    "id": "124603",
+    "imdb_id": "tt3083008",
+    "title": "The Program",
+    "slug": "the-program-2015",
+    "year": 2015,
+    "genre": [" Biography", " Drama", " Sport \n\t\t\t\t"],
+    "directors": [""],
+    "cast": [" Lee Pace", " Jesse Plemons", " Dustin Hoffman\n\t\t\t\t"],
+    "rating": 6.5,
+    "runtime": 0,
+    "image": "http://yify.is/data/medium_cover/124603.jpg",
+    "cover": "http://yify.is/data/medium_cover/124603.jpg",
+    "backdrop": "http://yify.is/data/background/124603.jpg",
+    "synopsis": "\n          An Irish sports journalist becomes convinced that Lance Armstrong's performances during the Tour de France victories are fueled by banned substances. With this conviction, he starts hunting for evidence that will expose Armstrong.        ",
+    "trailer": "https://www.youtube.com/watch?v=v4MiqwYE-5k",
+    "google_video": false,
+    "certification": "R",
+    "torrents": {
+      "720p": {
+        "url": "http://yify.is/data/torrents/BE01DAB5310BB303457338A12017D842724FAFFD.torrent",
+        "magnet": "magnet:?xt=urn:btih:BE01DAB5310BB303457338A12017D842724FAFFD&tr=udp://tracker.coppersurfer.tk:6969&tr=udp://p4p.arenabg.com:1337&tr=udp://9…r.opentrackr.org:1337/announce&tr=udp://tracker.leechers-paradise.org:6969",
+        "size": "789252669",
+        "filesize": "752.69 MB",
+        "seed": 0,
+        "peer": 0,
+        "health": "bad"
+      }
+    },
+    "provider": "Yts",
+    "subtitle": {
+      "en": "http://www.yifysubtitles.com/subtitle-api/the-program-yify-76927.zip"
+    }
+  }],
+  "hasMore": true
+}]

@@ -23,7 +23,6 @@
 
         initialize: function () {
             this.filter = new App.Model.Filter(this.filters);
-
             this.collection = new this.collectionModel([], {
                 filter: this.filter
             });
@@ -56,7 +55,6 @@
             }
         },
         onFilterChange: function () {
-
             this.collection = new this.collectionModel([], {
                 filter: this.filter
             });

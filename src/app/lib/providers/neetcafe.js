@@ -1,10 +1,10 @@
-(function (App) {
+(function(App) {
     'use strict';
     var querystring = require('querystring');
     var request = require('request');
     var Q = require('q');
     var inherits = require('util').inherits;
-
+    var readTorrent = require('read-torrent');
 
     var statusMap = {
         0: 'Not Airing Yet',
@@ -14,121 +14,20 @@
 
     var URL = 'http://ptp.haruhichan.com/';
 
-    var Haruhichan = function () {
-        Haruhichan.super_.call(this);
+    var NeetCafe = function() {
+        NeetCafe.super_.call(this);
     };
 
-    inherits(Haruhichan, App.Providers.Generic);
-
-    var queryTorrents = function (filters) {
-        var deferred = Q.defer();
-
-        var params = {};
-        params.sort = 'popularity';
-        params.limit = '50';
-        params.type = 'All';
-        params.page = (filters.page ? filters.page - 1 : 0);
-
-        if (filters.keywords) {
-            params.search = filters.keywords.replace(/\s/g, '% ');
-        }
-
-        var genres = filters.genre;
-        if (genres && (genres !== 'All')) {
-            params.genres = genres;
-        }
-
-        if (filters.sorter && filters.sorter !== 'popularity') {
-            params.sort = filters.sorter;
-        }
-        if (filters.sort === 'name') {
-            params.order * -1;
-        }
-
-        switch (filters.order) {
-        case 1:
-            params.order = 'desc';
-            break;
-        case -1:
-            /* falls through */
-        default:
-            params.order = 'asc';
-            break;
-        }
-
-        if (filters.type && filters.type !== 'All') {
-            if (filters.type === 'Movies') {
-                params.type = 'movie';
-            } else {
-                params.type = filters.type.toLowerCase();
-            }
-        }
-
-        // XXX(xaiki): haruchichan currently doesn't support filters
-        var url = URL + 'list.php?' + querystring.stringify(params).replace(/%25%20/g, '%20');
-        win.info('Request to Hurahican API', url);
-        request({
-            url: url,
-            json: true
-        }, function (error, response, data) {
-            if (error || response.statusCode >= 400) {
-                deferred.reject(error);
-            } else if (!data || (data.error && data.error !== 'No movies found')) {
-                var err = data ? data.error : 'No data returned';
-                win.error('API error:', err);
-                deferred.reject(err);
-            } else {
-                deferred.resolve(data);
-            }
-        });
-
-        return deferred.promise;
-    };
-
-    var parseTime = function (duration) {
+    inherits(NeetCafe, App.Providers.Generic);
+    var parseTime = function(duration) {
         var time = duration.match(/(?:([0-9]+) h)?.*?(?:([0-9]+) min)/);
         if (!time) {
             return win.error('couldn\'t parse time:', time);
         }
         return (time[1] ? time[1] : 0) * 60 + Number(time[2]);
     };
-
-    var formatForPopcorn = function (items) {
-        var results = _.map(items, function (item) {
-            var img = item.malimg;
-            var type = (item.type === 'Movie') ? 'movie' : 'show';
-            var aired = (item.aired.indexOf(', ') !== -1) ? item.aired.split(', ')[1] : item.aired;
-
-            var ret = {
-                images: {
-                    poster: img,
-                    fanart: img,
-                    banner: img
-                },
-                mal_id: item.MAL,
-                haru_id: item.id,
-                tvdb_id: 'mal-' + item.id,
-                imdb_id: 'mal-' + item.id,
-                slug: item.name.toLowerCase().replace(/\s/g, '-'),
-                title: item.name,
-                year: aired.replace(/ to.*/, ''),
-                type: type,
-                item_data: item.type
-            };
-            return ret;
-        });
-        console.log('huuuu');
-        console.log(results);
-
-        return {
-            results: Common.sanitize(results),
-            hasMore: true
-        };
-    };
-
-    // Single element query
-    var queryTorrent = function (torrent_id, prev_data) {
-        return Q.Promise(function (resolve, reject) {
+    var queryTorrent = function(torrent_id, prev_data) {
+        return Q.Promise(function(resolve, reject) {
             var id = torrent_id.split('-')[1];
             var url = URL + 'anime.php?id=' + id;
 
@@ -136,7 +35,7 @@
             request({
                 url: url,
                 json: true
-            }, function (error, response, data) {
+            }, function(error, response, data) {
                 var err;
                 if (error || response.statusCode >= 400) {
                     reject(error);
@@ -160,10 +59,9 @@
             });
         });
     };
-
-    var movieTorrents = function (id, dl) {
+    var movieTorrents = function(id, dl) {
         var torrents = {};
-        _.each(dl, function (item) {
+        _.each(dl, function(item) {
             var qualityMatch = item.quality.match(/[0-9]+p/);
             var quality = qualityMatch ? qualityMatch[0] : null;
             var qualityNumber = quality.replace('p', '');
@@ -183,10 +81,10 @@
         return torrents;
     };
 
-    var showTorrents = function (id, dl) {
+    var showTorrents = function(id, dl) {
         var torrents = {};
         var episodeNb = null;
-        _.each(dl, function (item) {
+        _.each(dl, function(item) {
             var qualityMatch = item.quality.match(/[0-9]+p/);
             var quality = qualityMatch ? qualityMatch[0] : null;
             var qualityNumber = quality.replace('p', '');
@@ -226,7 +124,7 @@
                 health: 'good'
             };
         });
-        return _.map(torrents, function (torrents, s) {
+        return _.map(torrents, function(torrents, s) {
             return {
                 title: torrents.ordered ? 'Episode ' + s : torrents.title,
                 torrents: torrents,
@@ -238,7 +136,7 @@
         });
     };
 
-    var formatDetailForPopcorn = function (item, prev) {
+    var formatDetailForPopcorn = function(item, prev) {
         var img = item.malimg;
         var type = prev.type;
         var genres = item.genres.split(', ');
@@ -283,19 +181,72 @@
         return Common.sanitize(ret);
     };
 
-    Haruhichan.prototype.extractIds = function (items) {
+
+    NeetCafe.prototype.extractIds = function(items) {
         return _.pluck(items.results, 'haru_id');
     };
 
-    Haruhichan.prototype.fetch = function (filters) {
-        return queryTorrents(filters)
-            .then(formatForPopcorn);
+    NeetCafe.prototype.fetch = function(filters) {
+        var deferred = Q.defer();
+        readTorrent(process.cwd()+'/one.torrent', function(e, r) {
+            var torrentHash = r.infoHash;
+            var data = [{
+            "type": "movie",
+            "id": "124808",
+            "imdb_id": "tt4870838",
+            "title": "One Punch Man",
+            "slug": "Not Two Only One Punch",
+            "year": 2016,
+            "genre": [" Animation \n\t\t\t\t"],
+            "directors": [""],
+            "cast": [" Stuart Allan", " Morena Baccarin", " Steve Blum\n\t\t\t\t"],
+            "rating": 7,
+            "runtime": 0,
+            "image": "http://cdn.myanimelist.net/images/anime/12/76049.jpg",
+            "cover": "http://cdn.myanimelist.net/images/anime/12/76049.jpg",
+            "backdrop": "http://cdn.myanimelist.net/images/anime/12/76049.jpg",
+            "synopsis": "\n          One Punch Man Punching Through Everything",
+            "trailer": "https://www.youtube.com/watch?v=7_oWZUVI2k4",
+            "google_video": false,
+            "certification": "R",
+            "torrents": {
+                "720p": {
+                    "url": "http://yify.is/data/torrents/0F570536370AB5593F36E0D165853B498721F53C.torrent",
+                    "magnet": "magnet:?xt=urn:btih:"+torrentHash,
+                    "size": "569670369",
+                    "filesize": "294.8 MB",
+                    "seed": 0,
+                    "peer": 0,
+                    "health": "bad"
+                }
+            },
+            "provider": "Yts",
+            "subtitle": {
+                "en": "http://www.yifysubtitles.com/subtitle-api/batman-bad-blood-yify-76768.zip",
+                "pt-br": "http://www.yifysubtitles.com/subtitle-api/batman-bad-blood-yify-77081.zip",
+                "el": "http://www.yifysubtitles.com/subtitle-api/batman-bad-blood-yify-77086.zip",
+                "id": "http://www.yifysubtitles.com/subtitle-api/batman-bad-blood-yify-76798.zip",
+                "es": "http://www.yifysubtitles.com/subtitle-api/batman-bad-blood-yify-76869.zip",
+                "ar": "http://www.yifysubtitles.com/subtitle-api/batman-bad-blood-yify-76951.zip",
+                "hr": "http://www.yifysubtitles.com/subtitle-api/batman-bad-blood-yify-76975.zip"
+            }
+        }]; 
+        var result = {
+            results: Common.sanitize(data),
+            hasMore: true
+        };
+        deferred.resolve(result);
+        });
+        
+        return deferred.promise;
     };
 
-    Haruhichan.prototype.detail = function (torrent_id, prev_data) {
-        return queryTorrent(torrent_id, prev_data);
+    NeetCafe.prototype.detail = function(torrent_id, prev_data) {
+        console.log(torrent_id);
+        console.log(prev_data);
+        return Q(prev_data);
     };
 
-    App.Providers.Haruhichan = Haruhichan;
+    App.Providers.NeetCafe = NeetCafe;
 
 })(window.App);

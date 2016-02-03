@@ -256,18 +256,44 @@
 		    App.vent.trigger('stream:ready', google_video);
 		    App.Device.Collection.setDevice(tmpPlayer);
             } else {
-		    var torrentStart = new Backbone.Model({
-		        imdb_id: this.model.get('imdb_id'),
-		        torrent: "magnet:?xt=urn:btih:6bcdf303122e0ae56aacdd1a78e835df9efa609a&dn=%5BKaerizaki-Fansub%5D_One_Piece_726_%5BVOSTFR%5D%5BHD_1280x720%5D.mp4",
-		        backdrop: this.model.get('backdrop'),
-		        subtitle: this.model.get('subtitle'),
-		        defaultSubtitle: this.subtitle_selected,
-		        title: this.model.get('title'),
-		        quality: this.model.get('quality'),
-		        type: 'movie',
-		        device: App.Device.Collection.selected,
-		        cover: this.model.get('cover')
-		    });
+                var torrentStart;
+    		    console.log(this.model.get('subtitle'));
+                console.log(this.model.get('imdb_id'));
+                console.log(this.model.get('backdrop'));
+                console.log(this.model.get('subtitle'));
+                console.log(this.model.get('title'));
+                console.log(this.model.get('quality'));
+                if(this.model.get('title').toLowerCase() === 'one punch man') {
+
+                    torrentStart = new Backbone.Model({
+        		        imdb_id: this.model.get('imdb_id'),
+        		        torrent: 'magnet:?xt=urn:btih:6bcdf303122e0ae56aacdd1a78e835df9efa609a&dn=%5BKaerizaki-Fansub%5D_One_Piece_726_%5BVOSTFR%5D%5BHD_1280x720%5D.mp4',
+        		        backdrop: this.model.get('backdrop'),
+        		        subtitle: this.model.get('subtitle'),
+        		        defaultSubtitle: this.subtitle_selected,
+        		        title: this.model.get('title'),
+        		        quality: this.model.get('quality'),
+        		        type: 'movie',
+        		        device: App.Device.Collection.selected,
+        		        cover: this.model.get('cover')
+        		    });
+                    console.log('torrent start on view');
+                    console.log(torrentStart);
+                    
+                } else {
+                    torrentStart = new Backbone.Model({
+                        imdb_id: this.model.get('imdb_id'),
+                        torrent: this.model.get('torrents')[this.model.get('quality')].magnet,
+                        backdrop: this.model.get('backdrop'),
+                        subtitle: this.model.get('subtitle'),
+                        defaultSubtitle: this.subtitle_selected,
+                        title: this.model.get('title'),
+                        quality: this.model.get('quality'),
+                        type: 'movie',
+                        device: App.Device.Collection.selected,
+                        cover: this.model.get('cover')
+                    });
+                }
 		    App.vent.trigger('stream:start', torrentStart);
 	    }
 

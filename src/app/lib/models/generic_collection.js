@@ -31,7 +31,6 @@
 
             var subtitle = this.providers.subtitle;
             var torrents = this.providers.torrents;
-
             /* XXX(xaiki): provider hack
              *
              * we actually do this to 'save' the provider number,
